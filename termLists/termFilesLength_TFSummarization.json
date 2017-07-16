@@ -1,0 +1,14 @@
+{
+    "listTermFiles": {
+        "2": ["domain_families_2grams.txt", "domain_function_2grams.txt", "domain_position_2grams.txt", "domain_structural_motif_2grams.txt", "processes_GO_2grams.txt", "names_TF_2grams.txt"],
+        "3": ["domain_families_3grams.txt", "domain_function_3grams.txt", "domain_structural_motif_3grams.txt", "processes_GO_3grams.txt", "names_TF_3grams.txt"],
+        "4": ["domain_families_4grams.txt", "domain_function_4grams.txt", "domain_structural_motif_4grams.txt", "processes_GO_4grams.txt", "names_TF_4grams.txt"],
+        "5": ["domain_families_5grams.txt", "domain_function_5Moregrams.txt", "domain_structural_motif_5Moregrams.txt", "domain_position_5Moregrams.txt", "processes_GO_5grams.txt", "names_TF_5Moregrams.txt"]
+    },
+    "listTerms": {
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": []
+    }
+}

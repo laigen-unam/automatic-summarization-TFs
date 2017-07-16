@@ -1,0 +1,31 @@
+{
+	"hashTermFiles": {
+		"DFAM": ["domain_families_1grams.txt", "domain_families_2grams.txt", "domain_families_3grams.txt", "domain_families_4grams.txt", "domain_families_5grams.txt"],
+		"MF": ["domain_function_1grams.txt", "domain_function_2grams.txt", "domain_function_3grams.txt", "domain_function_4grams.txt" , "domain_function_5Moregrams.txt"],
+		"PRO": ["processes_GO_1grams.txt", "processes_GO_2grams.txt", "processes_GO_3grams.txt", "processes_GO_4grams.txt", "processes_GO_5grams.txt"],
+		"DPOS": ["domain_position_1grams.txt", "domain_position_2grams.txt", "domain_position_5Moregrams.txt"],
+		"DMOT": ["domain_structural_motif_1grams.txt", "domain_structural_motif_2grams.txt", "domain_structural_motif_3grams.txt", "domain_structural_motif_4grams.txt", "domain_structural_motif_5Moregrams.txt"],
+		"TF": ["names_TF_1grams.txt", "names_TF_2grams.txt", "names_TF_3grams.txt", "names_TF_4grams.txt", "names_TF_5Moregrams.txt"],
+		"FWDOM": ["freqWords_Aspect_DOM.txt"],
+		"FWRP": ["freqWords_Aspect_RP.txt"]
+	},
+	"hashTerms": {
+		"FWDOM": [],
+		"FWRP": [],
+		"DFAM": [],
+		"MF": [],
+		"PRO": [],
+		"DPOS": [],
+		"DMOT": [],
+		"TF": []
+	},
+	"hashTagAspect": {
+		"DFAM": "DOM",
+		"MF": "DOM",
+		"PRO": "RP",
+		"DPOS": "DOM",
+		"DMOT": "DOM",
+		"FWDOM": "DOM",
+		"FWRP": "RP"
+	}
+}

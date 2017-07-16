@@ -1,0 +1,15 @@
+αβ-sandwich fold
+winged helix-turn-helix
+coiled-coil helix
+zinc finger
+leucine zipper
+Helix-hairpin-helix motif
+PAC motif
+GoLoco motif
+MORN motif
+GYR motif
+SEC-C motif
+Dpy-30 motif
+PAAR motif
+CGCAxxGCC motif
+MIR motif

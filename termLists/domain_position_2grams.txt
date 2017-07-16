@@ -1,0 +1,7 @@
+N terminal
+C terminal
+C terminus
+N terminus
+central domain
+amino terminal
+amino terminus

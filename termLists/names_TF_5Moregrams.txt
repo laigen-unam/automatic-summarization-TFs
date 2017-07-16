@@ -1,0 +1,91 @@
+Ada DNA-binding transcriptional dual regulator
+AraC DNA-binding transcriptional dual regulator
+AsnC DNA-binding transcriptional dual regulator
+Az protein inhibitor of ODC
+BolA DNA-binding transcriptional dual regulator
+ChbR DNA-binding transcriptional dual regulator
+Cra DNA-binding transcriptional dual regulator
+CsgD DNA-binding transcriptional dual regulator
+major cold shock protein 7.4
+CueR-Cu+ DNA-binding transcriptional dual regulator
+DcuR response regulator - phosphorylated
+DhaR DNA-binding transcriptional dual regulator
+DicA DNA-binding transcriptional dual regulator
+chromosomal replication initiator protein DnaA
+DsdC DNA-binding transcriptional dual regulator
+FNR DNA-binding transcriptional dual regulator
+FadR DNA-binding transcriptional dual regulator
+site-specific DNA inversion stimulation factor
+FlhDC DNA-binding transcriptional dual regulator
+Fur-Fe2+ DNA-binding transcriptional dual regulator
+GadW DNA-binding transcriptional dual regulator
+GadX DNA-binding transcriptional dual regulator
+GalR DNA-binding transcriptional dual regulator
+GalS DNA-binding transcriptional dual regulator
+GcvA DNA-binding transcriptional dual regulator
+positive regulator of gcv operon
+H-NS DNA-binding transcriptional dual regulator
+HU DNA-binding transcriptional dual regulator
+HdfR DNA-binding transcriptional dual regulator
+IHF DNA-binding transcriptional dual regulator
+IlvY DNA-binding transcriptional dual regulator
+IscR DNA-binding transcriptional dual regulator
+KdpE response regulator - phosphorylated
+LeuO DNA-binding transcriptional dual regulator
+LrhA DNA-binding transcriptional dual regulator
+LysR DNA-binding transcriptional dual regulator
+MarA DNA-binding transcriptional dual regulator
+MatA DNA-binding transcriptional dual regulator
+McbR DNA-binding transcriptional dual regulator
+MelR DNA-binding transcriptional dual regulator
+MetR DNA-binding transcriptional dual regulator
+MlrA DNA binding transcriptional activator
+MntR-Mn2+ DNA-binding transcriptional dual regulator
+MurR DNA-binding transcriptional dual regulator
+Nac DNA-binding transcriptional dual regulator
+NagC DNA-binding transcriptional dual regulator
+NanR DNA-binding transcriptional dual regulator
+NikR-Ni DNA binding transcriptional repressor
+NorR DNA-binding transcriptional dual regulator
+NtrC response regulator - phosphorylated
+NtrC-Phosphorylated DNA-binding transcriptional dual regulator
+OxyR DNA-binding transcriptional dual regulator
+PdhR DNA-binding transcriptional dual regulator
+PrpR DNA-binding transcriptional dual regulator
+RbsR DNA-binding transcriptional dual regulator
+RelB-antitoxin and DNA-binding transcriptional repressor
+RutR DNA-binding transcriptional dual regulator
+SdiA DNA-binding transcriptional dual regulator
+SgrR DNA-binding transcriptional dual regulator
+SoxR DNA-binding transcriptional dual regulator
+SoxS DNA-binding transcriptional dual regulator
+regulation of superoxide response regulon
+SutR DNA-binding transcriptional dual regulator
+transcriptional activator of tdc operon
+threonine dehydratase operon activator protein
+TyrR DNA-binding transcriptional dual regulator
+UhpA response regulator - phosphorylated
+YdeO DNA-binding transcriptional dual regulator
+isovaleryl-CoA dehydrogenase and DNA-binding transcriptional repressor
+bifunctional biotin-[acetyl-CoA-carboxylase] ligase and transcriptional repressor
+acid-responsive regulator of gadA and gadBC
+HipB antitoxin and DNA-binding transcriptional repressor
+transcriptional repressor of the lac operon
+transcriptional repressor of nag (N-acetylglucosamine) operon
+transcriptional repressor for deo operon, tsx, nupG
+DinJ-YafQ antitoxin/toxin complex and DNA-binding transcriptional repressor
+DNA-binding protein HLP-II (HU, BH2, HD, NS)
+HipAB toxin/antitoxin complex and DNA-binding transcriptional repressor
+MazE antitoxin of the MazF-MazE toxin-antitoxin system
+MazE-MazF antitoxin/toxin complex and DNA-binding transcriptional repressor
+NadR DNA-binding transcriptional repressor and NMN adenylyltransferase
+bifunctional NadR transcriptional repressor and NMN adenylyltransferase
+bifunctional regulatory protein sensor for oxidative stress
+H-NS-like DNA-binding protein with RNA chaperone activity
+YefM-YoeB antitoxin/toxin complex and DNA-binding transcriptional repressor
+biotin-[acetylCoA carboxylase] holoenzyme synthetase and biotin operon repressor
+negative regulator of exu regulon, exuT, uxaAC, and uxuB
+YedW DNA-binding response regulator in two-component system with YedV
+formate hydrogen-lyase transcriptional activator for fdhF, hyc and hyp operons
+fused PutA transcriptional repressor / proline dehydrogenase / 1-pyrroline-5-carboxylate dehydrogenase
+MqsA antitoxin of the MqsRA toxin-antitoxin system and DNA-binding transcriptional repressor

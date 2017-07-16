@@ -1,0 +1,13 @@
+alanyl-tRNA synthetase
+CP4-57 prophage
+envelope protein
+FNR-[4Fe-4S]2+ reduced
+FNR-[2Fe-2S]2+ oxidized
+MarR-Phenazine methosulfate
+MarR-Sodium salicylate
+NsrR-nitric oxide
+NsrR-[2Fe-2S]2+ oxidized
+aminopeptidase A/I
+RcnR-Ni 2+
+SoxR-[2Fe-2S]3+ oxydized
+SoxR-[2Fe-2S]2+ reduced

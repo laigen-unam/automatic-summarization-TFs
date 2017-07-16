@@ -1,0 +1,30 @@
+recognition of put promoter DNA
+interaction with the RNA polymerase
+molybdate ion transmembrane transporter activity
+transcription regulatory region DNA binding
+core promoter sequence-specific DNA binding
+catalyzing transmembrane movement of substances
+toxin-antitoxin pair type II binding
+recognition of the extended -10 promoter
+bacterial-type RNA polymerase core enzyme binding
+transcription regulatory region sequence-specific DNA binding
+bacterial-type RNA polymerase holo enzyme binding
+bacterial-type RNA polymerase transcriptional activator activity
+bacterial-type RNA polymerase transcription factor activity
+metal ion regulated sequence-specific DNA binding
+eubacterial-type RNA polymerase core enzyme binding
+4 Fe 4 S cluster binding
+2 Fe 2 S cluster binding
+prevents access to the σ54-RNA polymerase complex
+binds as a dimer to its operator
+bacterial-type RNA polymerase regulatory region DNA binding
+core promoter proximal region sequence-specific DNA binding
+eubacterial-type RNA polymerase regulatory region DNA binding
+core RNA polymerase binding transcription factor activity
+basal bacterial-type RNA polymerase transcription machinery binding
+acting on the aldehyde or oxo group of donors
+bacterial-type RNA polymerase core promoter proximal region sequence-specific binding
+eubacterial-type RNA polymerase regulatory transcription factor sequence-specific DNA binding
+metal ion regulated sequence-specific DNA binding bacterial-type RNA polymerase transcription factor activity
+sequence-specific DNA binding bacterial-type RNA polymerase transcription factor activity involved in positive regulation of transcription
+bacterial-type RNA polymerase core promoter proximal region sequence-specific DNA binding transcription factor activity involved in negative regulation of transcription

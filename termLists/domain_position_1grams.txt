@@ -1,0 +1,14 @@
+N-terminal
+C-terminal
+carboxy-terminal
+C-terminus
+N-terminus
+NTD
+CTD
+amino-terminal
+amino-terminus
+NH2-terminus
+amine-terminus
+carboxyl-terminus
+carboxy-terminus
+COOH-terminus

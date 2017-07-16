@@ -1,0 +1,24 @@
+IQ motif, EF-hand binding site
+Helix-hairpin-helix DNA-binding motif, class 1
+RNA recognition motif domain, eukaryote
+Class III signal peptide motif
+ArsR-type transcription regulator, HTH motif
+RNA recognition motif, spliceosomal PrP8
+Antitermination protein N, arginine-rich motif
+DNA polymerase type-Y, HhH motif
+RING-type zinc-finger, LisH dimerisation motif
+Trimeric autotransporter adhesin, tryptophan-ring motif
+Polysaccharide biosynthesis PFTS motif protein
+Radical SAM/CxCxxxxC motif protein YfkAB
+Endonuclease III-like, iron-sulphur cluster loop motif
+RNA helicase, DEAD-box type, Q motif
+CTLH/CRA C-terminal to LisH motif domain
+SWIM/SEC-C metal-binding motif protein, PBPRA1643 family
+Protein of unknown function DUF1584, conserved motif
+Apoptosis regulator, Bcl-2, BH2 motif, conserved site
+Apoptosis regulator, Bcl-2, BH3 motif, conserved site
+Putative cyclic diguanylate phosphodiesterase, CSS motif-containing domain
+Protein of unknown function with HXXEE motif
+Protein of unknown function with PCYCGC motif
+Predicted DNA-binding protein with PD1-like DNA-binding motif
+DNA topoisomerase I, DNA binding, mixed alpha/beta motif, eukaryotic-type

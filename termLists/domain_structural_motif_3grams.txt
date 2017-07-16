@@ -1,0 +1,16 @@
+Ubiquitin interacting motif
+LIS1 homology motif
+VENN motif-containing domain
+Doubled CXXCH motif
+Single hybrid motif
+Duplicated hybrid motif
+Cysteine-rich domain, DPF-motif
+IGR protein motif
+Cross-wall-targeting lipoprotein motif
+Putative metal-binding motif
+UvrB, YAD/RRR-motif-containing domain
+HEXXH motif domain
+XrtJ-associated TM-motif-TM protein
+CCGSCS motif protein
+Three-Cys-motif partner protein
+KELK-motif containing domain

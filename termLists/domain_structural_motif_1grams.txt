@@ -1,0 +1,9 @@
+helix-turn-helix
+HTH
+coiled-coil
+winged-helix
+ribbon-helix-helix
+RHH
+β-sheet
+helix-loop-helix
+α-helix

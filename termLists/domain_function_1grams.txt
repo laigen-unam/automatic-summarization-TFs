@@ -1,0 +1,10 @@
+DNA-binding
+DNA-recognition
+oligomerization
+ligand-binding
+inducer-binding
+dimerization
+effector-binding
+cofactor-binding
+NAD+
+MGMT
