@@ -1,0 +1,477 @@
+﻿ELSEVIER Gene 179 (1996) 53-57
+GENE
+AN INTERNATIONAL OOURhlAL ON
+GENES AND GENOHES
+Redox signaling and gene control in the Escherichia coli soxRS oxidative
+stress regulon- a review i
+Abstract
+Bruce Demple *
+Department of Molecular and Cellular Toxicology, Harvard School of Public Health, Boston, MA 02115, USA
+The soxRS regulon of Escherichia coli coordinates the induction of at least twelve genes in response to superoxide or nitric
+oxide. This review describes recent progress in understanding the signal transduction and transcriptional control mechanisms that
+activate the soxRS regulon, and some aspects of the physiological functions of this system. The SoxS protein represents a growing
+family of transcription activators that stimulate genes for resistance to oxidative stress and antibiotics. SoxR is an unusual
+transcription factor whose activity in vitro can be switched off by the removal of [2Fe-2S] centers, and activated by their
+reinsertion. The activated form of SoxR remodels the structure of the soxS promoter to activate transcription. When the soxRS
+system is activated, bacteria gain resistance to oxidants, antibiotics and immune cells that generate nitric oxide. The latter features
+could increase the success (virulence) of some bacterial infections.
+Keywords: Superoxide; Nitric oxide; Transcriptional control; FeS clusters
+1. Introduction and background
+Multiple defenses protect aerobic organisms from the
+toxic side-effects of oxygen. For example, superoxide
+dismutases eliminate O2-, and catalases dispose of
+hydrogen peroxide. Such defenses can be adjusted in
+response to imbalances between the production and
+disposal of reactive oxygen derivatives (often called
+'oxidative stress'; Sies, 1991). Escherichia coli has inde-
+pendent multigene responses to two kinds of oxidative
+stress (Demple, 1991; Hidalgo and Demple, 1995): excess
+H2O 2 triggers the oxyR regulon, and excess O2- or
+nitric oxide (NO') radicals triggers the soxRS regulon,
+which coordinates the transcriptional induction of at
+least 12 promoters (Hidalgo and Demple, 1995).
+* Tel.: (+ 1-617) 432-3462; Fax: (+ 1-617) 432-0377;
+e-mail: demple@mbcrr.harvard.edu
+1Presented at the Chulabhorn Research Institute International
+Conference on 'Biotechnology and Research Applications for
+Sustainable Development (BRASD)', Central Plaza Hotel, Bangkok,
+Thailand, 7-10 August 1995.
+Abbreviations: aa, amino acid(s); bp, base pair(s); epr, electron para-
+magnetic resonance; FeS, iron-sulfur; kb, kilobase(s) or 1000 bp; nt,
+nucleotide(s); soxRS regulon, genes regulated by products (SoxR and
+SoxS) of the soxRS locus in E. coli; soxS' i : lacZ, fusion of lacZ to the
+5' portion of soxS and its promoter.
+0378-1119/96/$15.00 © 1996 Elsevier Science B.V. All rights reserved
+PH $0378-1119(96)00329-0
+We have focused on the soxRS regulon to identify key
+defense functions, and as a model signal transduction
+pathway for oxidative stress. Specific antioxidant roles
+are apparent for many known soxRS-regulated genes
+(Table 1). Activation of the soxRS regulon also confers
+resistance to a broad range of antibiotics (Greenberg
+et al., 1990; Chou et al., 1993), and two known soxRS-
+regulated genes encode proteins prevent antibiotics from
+accumulating in E. coli (Table 1).
+Gene activation by soxRS occurs in two stages
+(Nunoshiba, 1992; Wu and Weiss, 1992): SoxR protein
+is activated by a redox signal as a strong activator of
+soxS transcription; increased SoxS levels then activate
+the various regulon genes via ~7o RNA polymerase
+(Fig. 1). The focus of this paper is the mechanism of
+these two transcriptional stages, and the role of soxRS
+in resistance to the oxidative assault of immune cells.
+2. Activation of soxRS regulon genes
+2.1. SoxS and a family of antibiotic-resistance activators
+SoxS protein was purified to reveal a protein with
+high-affinity binding (50% binding at 10 -s to 10 -9 M
+54 B. Demple/Gene 179 (1996) 53-57
+Table 1
+Genes of the soxRS regulon and their proposed functions (Hidalgo and Demple, 1995) a
+Gene b Product Activity Role
+sodA Mn-SOD Superoxide dismutase
+nfo Endonuclease IV Initiates repair of oxidative
+DNA damages
+zwf Glucose-6-phosphate Generates NADPH
+dehydrogenase
+fumC Fumarase C Heat-stable fumarase
+acn Aconitase Citric acid cycle
+sol (Japan) Homolog? .9
+psi (S. Korea) Homolog? ?
+micF Antisense RNA for ompF mRNA Block OmpF synthesis
+acrAB AcrA and AcrB Efltux pump(s) in inner membrane
+fpr Fpr Frredoxin:NADPH oxidoreductase
+a Not shown are several other soxRS-regulated genes not yet cloned or analyzed biochemically.
+b See Figs. 1 and 2 for mechanism of induction of these genes.
+..Le.dox.. ,.
+~ signal
+',' ®
+SOXI( P
+i soxS
+sodA nfo micF zwf famC acnA fpr others
+,, , | ', ,, ,, ,
+: 1 1
+Mn-SOD Endo IV OmpF G6PD fumarase aconitase ferredoxin reductase
+Fig. 1. Two-stage transcriptional induction in the soxRS regulon.
+Existing SoxR protein is activated by an intracellular redox signal
+caused by excess superoxide or nitric oxide. Activated SoxR stimulates
+transcription at the soxS promoter, and the increased levels of SoxS
+protein activate the regulon genes. Note that SoxS also negatively
+autoregulates its own expression, and that the soxR and soxS mRNAs
+overlap. Mn-SOD, manganese-containing superoxide dismutase; Endo
+IV, endonuclease IV; G6PD, glucose-6-phosphate dehydrogenase. See
+Table 1 for a more complete list of soxRS regulon genes and their
+proposed functions. Reprinted with permission from Hidalgo and
+Demple (1995).
+SoxS) to soxRS regulon promoters (Li and Demple,
+1994). SoxS binding stabilizes the subsequent binding of
+E. coli cy v° RNA polymerase by 10- to 20-fold (Li and
+Demple, 1994), similar to the in vivo induction for
+several genes (Greenberg et al., 1990; Tsaneva and
+Weiss, 1990).
+SoxS is homologous to the AraC C-terminus
+Keep O~ - levels low
+Viability, genetic stability
+Supply reducing power for
+antioxidant enzymes
+Replace O~ --sensitive fumarases
+Replace aconitase inactivated by O~ -
+?
+9
+Diminish uptake of antibiotics and other compounds
+Maintain low intracellular levels of
+antibiotics and other compounds
+Reduce FeS clusters
+(Amfibile-Cuevas and Demple, 1991), but more closely
+related proteins have been discovered recently (Fig. 2).
+These include the 13-kDa MarA protein (Cohen et al.,
+1993), whose regulatory specificity overlaps that of SoxS
+(Ariza et al., 1995), and the 33-kDa Rob protein, with
+an homologous N-terminus (Skarstad et al., 1993; Cohen
+et al., 1993). Rob was identified by its binding to the
+right arm of the E. coli replication origin (Skarstad et al.,
+1993); we tested whether the sequence similarity of Rob,
+MarA and SoxS might underlie a regulatory overlap
+among these proteins.
+Expression of Rob via a lacI-regulated promoter
+elevated the expression of the fumC and soda genes and
+conferred resistance to multiple antibiotics in E. coli
+(Ariza et al., 1995). Purified Rob protein bound in vitro
+with high affinity to the sodA, micF, and zwf promoters,
+although zwf was not significantly activated by Rob in
+vivo (Ariza et al., 1995). The gene activations seen with
+intact Rob in vivo were also mediated by expression of
+only the N-terminal segment of Rob (Fig. 2). Both Rob
+and SoxS have recently been implicated in resistance to
+organic solvents and toxic heavy metals (Nakajima et al.,
+1995), which might involve still other genes yet to be
+identified. Physiological signals that might activate Rob
+expression or a latent transciptional activity in pre-
+existing Rob protein remain unknown.
+2.2. Physiology of soxRS: activation of resistance to nitric
+oxide-generating macrophages
+The O~ - (superoxide) radical is an ion that penetrates
+membranes poorly. However, other biologically gener-
+ated radicals, most notably nitric oxide (NO'), do cross
+lipid bilayers. NO is generated in short bursts for
+intercellular signaling, or in a more sustained fashion by
+some immune cells as a cytotoxic weapon (Nathan and
+Xie, 1994). We found recently (Nunoshiba et al., 1993)
+B. Demple/Gene 179 (1996) 53-57 55
+N-terminus HTH motif
+C-terminus
+~'/////~//~/////////S/A
+I
+I
+I
+I
+I f
+180 aa ~ 100 aa ~ 180 aa
+I Rob
+Name % Id.
+TetD 60
+SoxS 55
+MarA 51
+] Cafl R 46
+[ AflR 46
+RhaS 31
+AraC 26
+Fig. 2. Family of SoxS- and Rob-related proteins. The percent aa sequence identity (% Id.) of the various polypeptides was calculated relative to
+Rob for the central hatched areas. The right hatched areas show a common region among Rob and two other proteins which is not shared with
+the other proteins. The vertical arrow indicates the site of truncation used to generated the Rob N-terminal fragment (see Section 2.1)). HTH,
+predicted helix-turn-helix motif. The proteins (SoxS, MarA, Rob, etc.) are named after their respective genes. Reproduced with permission from
+Ariza et al. (1995).
+that acute exposure to pure NO" activates the soxRS
+regulon in a manner independent from O~-, and that
+the soxRS regulon provides a survival advantage for E.
+coli after phagocytosis by murine macrophages. This
+increased survival was seen only after > 4 h of phagocy-
+tosis, when NO" is being generated at a high rate
+(Nathan and Xie, 1994).
+The simplest conclusion from the above experiments
+was that NO" activates the soxRS regulon, which then
+provides resistance to the NO'-mediated toxicity. Even
+though O~- generated extracellularly did not activate
+soxRS (Nunoshiba et al., 1993), it remained formally
+possible that the regulon was somehow activated at an
+earlier stage after phagocytosis, but with a contribution
+to survival that appeared only later on. We investigated
+this point in two ways: by testing soxRS activation by
+chronic NO" exposure, similar to that occurring in
+macrophages, and by directly measuring the induction
+of the soxS gene in phagocytosed bacteria (Nunoshiba
+et al., 1995).
+With chronic NO" exposure, maximal induction of a
+soxS': :lacZ operon fusion was seen at 25 ~tM/h anaero-
+bically and 125 ~tM/h aerobically (an expected difference,
+since 02 neutralizes NO'). The activation of the same
+operon fusion was followed in E. coli phagocytosed by
+murine macrophages, except that the sensitivity of the
+assay for 13-galactosidase had to be boosted ~ 1000-fold
+(Nunoshiba et al., 1995). These studies reinforced the
+connection to nitric oxide considerably: no soxS'::lacZ
+induction was detectable at 4 h after phagocytosis, but
+by 8 h the expression had been elevated more than
+30-fold. Most strikingly, incubation of the macrophages
+with an arginine analog that blocks NO" synthesis also
+prevented soxS activation. Consequently, E. coIi has
+evolved to sense and respond to a major cytotoxic
+weapon of the immune system. It remains to be seen
+whether such a function is widespread among bacteria
+or whether eukaryotic cells harbor such protective
+responses against NO. However, there is preliminary
+evidence for close homologs of soxR and soxS in several
+pathogenic species of bacteria (E. Martins and B.D.,
+unpublished data).
+2.3. SoxR: sensing and transcription activation by an FeS
+protein
+Genetic studies have shown that soxR is the master
+regulator of the soxRS regulon by governing activation
+of the soxS gene (Nunoshiba et al., 1993; Wu and Weiss,
+1992). The direct role of the SoxR protein in this process
+was shown by the purification of SoxR and the demon-
+stration of its specific and high-affinity binding (K d
+approx. 4× 10 -l° M) to the soxS promoter (Hidalgo
+and Demple, 1994). SoxR could be obtained in two
+forms, dependent on the amount of thiol present in the
+purification buffers (included initially in attempts to
+modify the oxidation state of the protein): SoxR purified
+in the absence of added thiols contained 1-2 atoms of
+Fe per monomer, while protein isolated in buffers con-
+taining 1 mM 2-mercaptoethanol contained no detecta-
+ble metals (Hidalgo and Demple, 1994). Both forms of
+SoxR bound the soxS promoter equally strongly, with
+only Fe-SoxR slightly stabilizing the subsequent binding
+of E. coli cy 7° RNA polymerase (Hidalgo and Demple,
+1994<). However, only Fe-SoxR stimulated abortive
+initiation at the soxS promoter in vitro; apo-SoxR was
+without a significant effect (Hidalgo and Demple, 1994).
+We have confirmed the transcriptional activity of
+Fe-SoxR using a more physiological assay for full-length
+soxS transcription from a plasmid containing a compet-
+56 B. Demple/Gene 179 (1996) 53-57
+ing promoter (bla) not regulated by soxRS. These studies
+revealed potent activity of Fe-SoxR specific for soxS
+transcription, while the activity of apo-SoxR was < 1%
+that of the metalloprotein (Hidalgo et al., 1995).
+Footprinting studies with Cu(II).5-phenyl-l,10-phe-
+nanthroline showed that Fe-SoxR specifically stimulates
+open complex formation, with the some indication that
+protein distorts the local DNA structure in partnership
+with RNA polymerase (Hidalgo et al., 1995). Allosteric
+DNA distortion may be the mechanism by which
+Fe-SoxR overcomes the non-optimal -10/-35 spacing
+of the soxS promoter (19 bp; Hidalgo and Demple,
+1994<) to activate transcription, as has been proposed
+for the homologous MerR protein (Ansari et al., 1992).
+The signaling mechanism that connects soxS induc-
+tion, via SoxR, to superoxide or nitric oxide stress has
+been explored by physical studies of the SoxR FeS
+center. This metal center has now been shown by electron
+paramagnetic resonance (EPR) spectroscopy to be a
+[2Fe-2S] cluster, at a stoichiometry of one cluster per
+SoxR monomer (Hidalgo et al., 1995). Since Fe-SoxR
+(and apo-SoxR) exist predominantly as homodimers in
+solution (Hidalgo et al., 1995), there must be two
+[2Fe-2S] centers per functional molecule, although we
+could not distinguish whether these are arranged as one
+per subunit or two shared between the subunits. This
+physical picture of the SoxR metalloprotein is consistent
+with that determined by others (Wu et al., 1995).
+The SoxR FeS centers are redox-active, as shown by
+reduction with dithionite (Hidalgo and Demple, 1994 <),
+which generates the reduced (Fe 2+/Fe 3+ ) form (Hidalgo
+et al., 1995; Wu et al., 1995). It seems possible that
+oxidation/reduction reactions could control the tran-
+scriptional activity of SoxR. The protein with oxidized
+(Fe 3 +/Fe 3 + ) centers was the active form in transcription
+studies cited above, but preliminary experiments (E.
+Hidalgo and B.D., in preparation) suggest that reduction
+of the [2Fe-2S] centers does not block transcription
+activation by Fe-SoxR.
+An alternative possibility is that SoxR activity is
+regulated by the assembly and disassembly of the
+[2Fe-2S] centers. We have now shown that metallo-
+SoxR can be reconstituted in vitro by incubation with
+inorganic sulfide, iron and dithiothreitol (Hidalgo and
+Demple, 1996). The transcription-activating potency of
+the reconstituted Fe-SoxR is equal to that of the native
+metalloprotein, and the [2Fe-2S] structure was con-
+firmed by EPR spectroscopy. However, successful recon-
+stitution under these conditions required several hours.
+The rate of FeS assembly into SoxR was accelerated
+> 25-fold by the addition of Azotobacter vinlandii NifS
+protein (a generous gift of Drs. L. Zheng and D. Dean),
+a sulfide-generating enzyme that catalyzes the reconstitu-
+tion of FeS centers (Zheng and Dean, 1994). Thus, fully
+active SoxR can be generated rapidly from the apo-
+protein, which demonstrates that only the lack of the
+[2Fe-2S] clusters prevents transcriptional activation by
+apo-SoxR (Hidalgo and Demple, 1996).
+The key role of the SoxR cysteine residues in anchor-
+ing the [2Fe-2S] centers in SoxR has been demonstrated
+by generating mutant forms of the protein. Site-specific
+mutation of any of the four SoxR Cys ~ Ala generates
+derivatives that failed to complement AsoxR strains for
+induction of a soxS'::lacZ reporter fusion in response
+to paraquat (T.M. Bradley, E. Hidalgo, H. Ding and
+B.D., data not shown). Although they bound the soxS
+promoter with apparently normal affinity, the purified
+Cys ~ Ala mutant SoxR proteins failed to activate in
+vitro transcription and did not contain Fe (or other
+metals). Again, the simplest interpretation is that the
+activity of SoxR is allosterically modulated to affect a
+stage after DNA binding, and that the [2Fe-2S] clusters
+play the critical role in this process.
+If oxidation-reduction reactions at the SoxR [2Fe-2S]
+do not act as a simple 'on/off' switch, it seems possible
+that the in vivo activity of SoxR could be modulated by
+the assembly and disassembly of the FeS centers. How
+might this be linked to oxidative stress to allow SoxR
+to act as a sensor? Both superoxide and nitric oxide
+seem to lead to the destruction of protein [4Fe-4S]
+clusters (Flint et al., 1993; Henry et al., 1993). These
+reactions both inactivate [4Fe-4S] enzymes and liberate
+low-molecular-weight forms of Fe (Henry et al., 1993).
+This liberated iron might then provide a pool for assem-
+bly into SoxR, which should activate the protein as a
+transcription factor. The characteristics of the SoxR FeS
+center seem to be well-suited to its demonstrated ability
+to function in the presence of free radicals that inactivate
+other FeS proteins: Fe-SoxR is stable during long-term
+exposure to oxygen (Hidalgo and Demple, 1994), unlike
+many proteins with [4Fe-4S] clusters but similar to
+some other [2Fe-2S] proteins (Flint et al., 1993).
+The hypothesis that SoxR activation might be linked
+to cellular iron pools resolves some difficulties in under-
+standing this system. For example, both 02- and
+NO" activate soxRS even though they have rather
+different chemical reactivities. However, this explanation
+raises new questions: What would prevent [2Fe-2S]
+assembly into SoxR in non-stressed cells, since FeS
+centers are certainly assembled into other proteins? How
+would active Fe-SoxR be converted to the inactive form?
+Is there a specific FeS assembly or disassembly protein
+for SoxR? Do limitations of Fe availability block SoxR
+activation? Such questions are among the key ones to
+be addressed in the next stage of exploring the sensing
+and gene activation mechanism of this fascinating
+protein.
+2.4. Conclusions and perspectives
+The soxRS regulon provides a powerful model system
+for understanding the mechanisms that link toxic expo-
+sure to free radicals and genetic responses that
+counteract them. The arrangement of two stages of
+transcription activation remains enigmatic, although it
+could provide a means of coupling the unconventional
+SoxR gene activation mechanism to the more standard
+mechanism that seems to be employed by SoxS. Such
+an arrangement may also be more amenable to regula-
+tory overlap with other control systems at individual
+soxRS regulon genes.
+Our studies of soxRS have also revealed some features
+with medical implications. The antibiotic resistance con-
+ferred by soxRS suggests that some of the same functions
+could operate to counteract compounds that cause oxi-
+dative stress. The clear homology of SoxS and MarA
+suggests that these two proteins operate by a similar
+mechanism to activate some of the same genes, and our
+biochemical studies with the SoxS protein provide a
+clear guide for future work with MarA. The activation
+of soxRS by NO and by nitric-oxide-generating macro-
+phages suggests that this defense system could play a
+role in bacterial pathogenesis, a question that we are
+currently exploring. In addition, the identification of
+soxRS-regulated genes that confer resistance to NO"
+points to the types of defenses that might operate in
+other organisms, including human cells and tissues that
+generate NO.
+Acknowledgement
+Research in the author's laboratory has been sup-
+ported by the National Cancer Institute of the National
+Institutes of Health, by the American Cancer Society,
+and by the Amyotropic Lateral Sclerosis Association. I
+am grateful to the talented students and postdoctoral
+fellows, who have conducted this work, for many stimu-
+lating discussions.
+References
+Am~ibile-Cuevas, C.F. and Demple, B. (1991) Molecular characteriza-
+tion of the soxRS genes of Escherichia coli: two genes control a
+superoxide stress regulon. Nucleic Acids Res. 19, 4479-4484.
+Ansari, A.Z., Chael, M.L. and O'Halloran, T.V. (1992) Allosteric
+underwinding is a critical step in positive control of transcription by
+Hg-MerR. Nature 355, 87-89.
+Ariza, R.R., Li, Z., Ringstad, N. and Demple, B. (1995) Activation of
+multiple antibiotic resistance and binding of stress-inducible promot-
+ers by Escherichia coli Rob protein. J. Bacteriol. 177, 1655-1661.
+Chou, J.H., Greenberg, J.T. and Demple, B. (1993) Post-transcriptional
+repression of Escherichia coli OmpF protein in response to redox
+stress: Positive control of the micF antisense RNA by the soxRS
+locus. J. Bacteriol. 175, 1026-1031.
+Cohen, S.P., Hachler, H. and Levy, S.B. (1993) Genetic and functional
+I3. Demple/Gene 179 (1996) 53-57 57
+analysis of the multiple antibiotic resistance (mar) locus in Escher-
+ichia coli. J. Bacteriol. 175, 1484-1492,
+Demple, B. (1991) Regulation of bacterial oxidative stress genes. Annu.
+Rev. Genet. 25, 315-337.
+Flint D.H., Tuminello, J.F. and Emptage, M.H. (1993) The inactivation
+of Fe-S cluster containing hydro-lyases by superoxide. J. Biol. Chem.
+268, 22369-22376.
+Greenberg, J.T., Monach, P.A., Chou, J.H., Josephy, P.D. and Demple,
+B. (1990) Positive control of a global antioxidant defense regulon
+activated by superoxide-generating agents in Escherichia coli. Proc.
+Natl. Acad. Sci. USA 87, 6181 6185.
+Henry, Y., Lepoivre, M., Drapier, J.C., Ducrocq, C., Boucher, J.L. and
+Guissani, A. (1993) EPR characterization of molecular targets for
+NO in mammalian cells and organelles. FASEB J. 7, 1124-1134.
+Hidalgo, E. and Demple, B. (1994) An iron-sulfur center essential for
+transcriptional activation by the redox-sensing SoxR protein. EMBO
+J. 13, 138-146.
+Hidalgo, E. and Demple, B. (1995) Adaptive responses to oxidative
+stress: The soxRS and oxyR regulons. In: Lin, E.C.C. and Lynch,
+A.S. (Eds.), Regulation of Gene Expression in Escherichia coli.
+Molecular Biology Intelligence Unit Series, R.G. Landes, Austin, TX,
+pp, 433-450.
+Hidalgo, E. and Demple, B. (1996) Non-catalytic and NifS-mediated
+in vitro assembly of [2Fe-2S] centers in the Escherichia coli SoxR
+transcription regulator. J. Biol. Chem. 271, 7269-7272.
+Hidalgo, E., Bollinger Jr., J.M., Bradley, T.M., Walsh, C.T. and Demple,
+B. (1995) Binuclear FeS clusters in the Escherichia coli SoxR protein
+and role of the metal centers in transcription. J. Biol. Chem. 270,
+20908-20914.
+Li, Z. and Demple, B. (1994) SoxS, an activator of superoxide stress
+genes in Escherichia coli: purification and interaction with DNA.
+J. Biol. Chem. 269, 18371-18377.
+Nakajima, H., Kobayashi, K., Kobayashi, M., Asako, H. and Aono, R.
+(1995) Overexpression of the robA gene increases organic solvent
+tolerance and multiple antibiotic and heavy metal ion resistance in
+Escherichia coll. Appl. Environ. Microbiol. 61, 2302-2307.
+Nathan, C. and Xie, Q.W. (1994) Nitric oxide synthases - roles, tolls,
+and controls. Cell 78, 915-918.
+Nunoshiba, T., Hidalgo, E., Am~bile-Cuevas, C.F. and Demple, B.
+(1992) Two-stage control of an oxidative stress regulon: the Escher-
+ichia coli SoxR protein triggers redox-inducible expression of the
+soxS regulatory gene. J. Bacteriol. 174, 6054-6060.
+Nunoshiba, T., deRojas-Walker, T., Wishnok, J.S., Tannenbaum, S.R.
+and Demple, B. (1993) Activation by nitric oxide of an oxidative
+stress response that defends Escherichia coli against activated macro-
+phages. Proc. Natl. Acad. Sci. USA 90, 9993-9997.
+Nunoshiba, T., deRojas-Walker, T., Tannenbaum, S.R. and Demple, B.
+(1995) Roles of nitric oxide in inducible resistance of Escherichia coli
+to activated murine macrophages. Infect. Immun. 63, 794-798.
+Sies, H. (1991) Oxidative stress: Introduction. In: Sies, H. (Ed.), Oxida-
+tive Stress - Oxidants and Antioxidants. Academic Press, London,
+pp. xv-xxii.
+Skarstad, K., Thony, B., Hwang, D.S. and Kornberg, A. (1993) A novel
+binding protein of the origin of the Escherichia coli chromosome.
+J. Biol. Chem. 268, 5365-5370.
+Tsaneva, I. and Weiss, B. (1990) soxR, a locus governing a superoxide
+response regulon in Escherichia coli K-12. J. Bacteriol. 172,
+4197-4205.
+Wu, J. and Weiss, B. (1992) Two-stage induction of the soxRS (superox-
+ide response) regulon in Escherichia coli. J. Bacteriol. 174, 3915 3920.
+Wu, J., Dunham, W.R. and Weiss, B. (1995) Overproduction and physi-
+cal characterization of SoxR, a [2Fe-2S] protein that governs an
+oxidative stress response regulon in Escherichia coli. J. Biol. Chem.
+270, 10323-10327.
+Zheng, L. and Dean, D.R. (1994) Catalytic formation of a nitrogenase
+iron-sulfur cluster. J. Biol. Chem. 269, 18723-18726.

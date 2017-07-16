@@ -22,29 +22,6 @@ __author__ = 'CMendezC'
 #   1) transformed files
 #   2) text files
 
-# Execution:
-# GntR
-# python transforming.py --inputPath C:\Users\cmendezc\Documents\GENOMICAS\AUTOMATIC_SUMMARIZATION_TFS\corpus\TF_PMIDs_TXT_ECK120012096_GntR\term --outputPath C:\Users\cmendezc\Documents\GENOMICAS\AUTOMATIC_SUMMARIZATION_TFS\corpus\TF_PMIDs_TXT_ECK120012096_GntR\transformed --minWordsInLine 5
-
-# FhlA
-# python transforming.py --inputPath C:\Users\cmendezc\Documents\GENOMICAS\AUTOMATIC_SUMMARIZATION_TFS\corpus\TF_PMIDs_TXT_ECK120011394_FhlA\term --outputPath C:\Users\cmendezc\Documents\GENOMICAS\AUTOMATIC_SUMMARIZATION_TFS\corpus\TF_PMIDs_TXT_ECK120011394_FhlA\transformed --minWordsInLine 5
-
-# MarA
-# python transforming.py --inputPath C:\Users\cmendezc\Documents\GENOMICAS\AUTOMATIC_SUMMARIZATION_TFS\corpus\TF_PMIDs_TXT_ECK120011412_MarA\term --outputPath C:\Users\cmendezc\Documents\GENOMICAS\AUTOMATIC_SUMMARIZATION_TFS\corpus\TF_PMIDs_TXT_ECK120011412_MarA\transformed --minWordsInLine 5
-
-# ArgR
-# python transforming.py --inputPath C:\Users\cmendezc\Documents\GENOMICAS\AUTOMATIC_SUMMARIZATION_TFS\corpus\TF_PMIDs_TXT_ECK120011670_ArgR\term --outputPath C:\Users\cmendezc\Documents\GENOMICAS\AUTOMATIC_SUMMARIZATION_TFS\corpus\TF_PMIDs_TXT_ECK120011670_ArgR\transformed --minWordsInLine 5
-
-# CytR
-# python transforming.py --inputPath C:\Users\cmendezc\Documents\GENOMICAS\AUTOMATIC_SUMMARIZATION_TFS\corpus\TF_PMIDs_TXT_ECK120012407_CytR\term --outputPath C:\Users\cmendezc\Documents\GENOMICAS\AUTOMATIC_SUMMARIZATION_TFS\corpus\TF_PMIDs_TXT_ECK120012407_CytR\transformed --minWordsInLine 5
-
-# Rob
-# python transforming.py --inputPath C:\Users\cmendezc\Documents\GENOMICAS\AUTOMATIC_SUMMARIZATION_TFS\corpus\TF_PMIDs_TXT_ECK120011190_Rob\term --outputPath C:\Users\cmendezc\Documents\GENOMICAS\AUTOMATIC_SUMMARIZATION_TFS\corpus\TF_PMIDs_TXT_ECK120011190_Rob\transformed --minWordsInLine 5
-
-# EXTRACTING REGULATORY INTERACTIONS
-# python transforming.py --inputPath C:\Users\cmendezc\Documents\GENOMICAS\EXTRACTING_REGULATORY_INTERACTIONS\corpus_ecoli\lemma --outputPath C:\Users\cmendezc\Documents\GENOMICAS\EXTRACTING_REGULATORY_INTERACTIONS\corpus_ecoli\transformed --minWordsInLine 5
-
-
 def length(listWords):
     regexWord = re.compile('[a-zA-Z]')
     words = 0
@@ -86,10 +63,11 @@ if __name__ == "__main__":
     print("Classes to indicate final of sentence: " + str(options.classes))
 
     # We realized that POS tags from Biolemmatizer are very specific, therefore we decided to use Standford tags
-    bioPOST = False
+    bioPOST = True
     filesProcessed = 0
     # minWordsInLine = 3
-    listClasses = options.classes.split(',')
+    if not options.classes is None:
+        listClasses = options.classes.split(',')
     t0 = time()
     print("Transforming files...")
     # Walk directory to read files
@@ -126,7 +104,7 @@ if __name__ == "__main__":
                             if len(listLine1) != 3:
                                 continue
                             text = listLine1[0]
-                            # Replacing an estrange space character
+                            # Replacing an strange space character
                             text = text.replace(' ', '-')
                             listLine2 = listLine1[2].split(' ')
                             lemma = listLine2[0]
@@ -140,16 +118,16 @@ if __name__ == "__main__":
                             textText = textText + text + ' '
                             textTransformed = textTransformed + text + '|' + lemma + '|' + pos + ' '
                             # RI+GC	NN	RI+GC NN PennPOS
-                            if text in listClasses:
-                                # if length(textTransformed.split()) > options.minWordsInLine:
-                                if length(textTransformed.split())[0] > options.minWordsInLine and length(textTransformed.split())[1] <= 1000:
-                                    transformedFile.write(textTransformed + '\n')
-                                    # print(textTransformed)
-                                textTransformed = ''
-                                textText = ''
+                            if not options.classes is None:
+                                if text in listClasses:
+                                    # if length(textTransformed.split()) > options.minWordsInLine:
+                                    if length(textTransformed.split())[0] > options.minWordsInLine and length(textTransformed.split())[1] <= 1000:
+                                        transformedFile.write(textTransformed + '\n')
+                                        # print(textTransformed)
+                                    textTransformed = ''
+                                    textText = ''
             filesProcessed += 1
 
-    # Imprime archivos procesados
     print()
     print("Files processed: " + str(filesProcessed))
     print("In: %fs" % (time() - t0))

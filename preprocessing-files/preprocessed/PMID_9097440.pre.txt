@@ -1,0 +1,583 @@
+﻿APPLIED AND ENVIRONMENTAL MICROBIOLOGY, Apr. 1997, p. 1428–1433 Vol. 63, No. 4
+0099-2240/97/$04.00�0
+Organic Solvent Tolerance and Antibiotic Resistance Increased
+by Overexpression of marA in Escherichia coli
+HIROYUKI ASAKO, HARUSHI NAKAJIMA,* KEI KOBAYASHI, MASATO KOBAYASHI,
+AND RIKIZO AONO
+Department of Bioengineering, Tokyo Institute of Technology, 4259 Nagatsuta, Yokohama 226, Japan
+We previously reported that overexpression of the soxS or robA gene causes in several Escherichia coli strains
+the acquisition of higher organic solvent tolerance and also increased resistance to a number of antibiotics (H.
+Nakajima, K. Kobayashi, M. Kobayashi, H. Asako, and R. Aono, Appl. Environ. Microbiol. 61:2302–2307,
+1995). Most E. coli strains cannot grow in the presence of cyclohexane. We isolated the marRAB genes from a
+Kohara � phage clone and cyclohexane-tolerant mutant strain OST3408. We found a substitution of serine for
+arginine at position 73 in the coding region of marR of OST3408 and designated the gene marR08. Our genetic
+analysis revealed that marR08 is responsible for the cyclohexane-tolerant phenotype. We observed that the
+marA gene on high-copy-number plasmids increased the organic solvent tolerance of E. coli strains. Furthermore,
+exposure of E. coli cells to salicylate, which activates the mar regulon genes, also raised organic solvent
+tolerance. Overexpression of the marA, soxS, orrobA gene increased resistance to numerous antibiotics but not
+to hydrophilic aminoglycosides.
+Most water-immiscible organic solvents are generally toxic
+to microorganisms. In a nonionizable organic solvent-aqueous
+two-phase culture, toxicity of an organic solvent is inversely
+correlated with the log of the partition in n-octanol–water
+(logP ow value) (12) of the solvent (18, 19). An organic solvent
+with a low logP ow value is generally toxic to most microorganisms.
+Organic solvent tolerance levels of microorganisms significantly
+differ with species. For example, while Escherichia
+coli IFO3806 grows in the presence of organic solvents which
+have greater logP ow values than propylbenzene (logP ow, 3.8),
+Pseudomonas putida IFO3738 grows even in the presence of
+p-xylene (logP ow, 3.1) (18). In recent years, highly organic
+solvent-tolerant microorganisms, which thrive in the presence
+of toluene (logP ow, 2.7), were isolated from forest or garden
+soil and identified as P. putida, Pseudomonas aeruginosa, and
+Pseudomonas fluorescens (2, 18, 31). E. coli JA300 grows in the
+presence of n-hexane (logP ow, 3.9) but not in the presence of
+cyclohexane (logP ow, 3.4) (1). We isolated a series of organic
+solvent-tolerant mutants from strain JA300. One of the mutants,
+OST3408, shows growth in the presence of cyclohexane,
+and the most tolerant mutant, OST3121, can grow in the presence
+of p-xylene (1). We previously reported that the organic
+solvent tolerance levels of E. coli strains can be improved by
+overexpression of the stress response genes soxS and robA (32,
+33). The soxS or robA gene on high-copy-number plasmids
+under control of the lac promoter confers cyclohexane tolerance
+to JA300. Overexpression of the robA gene also raises
+resistance to a number of antibiotics and heavy metal ions. The
+spectrum of resistance to antibiotics is similar to that of the
+soxS-overexpressing strain (33). A number of spontaneously
+isolated cyclohexane-tolerant mutants of JA300 simultaneously
+acquired resistance to low levels of ampicillin, chloramphenicol,
+nalidixic acid, and tetracycline but became more
+sensitive to kanamycin than JA300 (4).
+Resistance to a number of structurally unrelated antibiotics
+Tokyo Institute of Technology, 4259 Nagatsuta, Yokohama
+226, Japan. Fax: (81) 45-924-5819. E-mail: hanakaji@bio.titech.ac.jp.
+1428
+can be induced in E. coli by derepression of the marRAB
+operon. The marRAB region at 34 min on the E. coli chromosome
+has been cloned and sequenced (10), and its regulation
+has been studied. The marRAB operon is negatively autoregulated
+by the MarR protein, which binds to the marRAB promoter
+region in vitro (27). Treatment with certain antibiotics
+or aromatic weak acids such as salicylate or acetylsalicylate
+derepresses this operon (11, 16, 28). The MarA protein is a
+member of the AraC subfamily of helix-turn-helix transcriptional
+activators and has more than 45% sequence identity with
+the SoxS and Rob proteins (10, 14, 15). The MarA protein
+controls a set of genes (mar and soxRS regulons, including
+sodA, nfo, micF, inaA, fumC, zwf, and fpr) and provides E. coli
+cells with resistance to a large number of antibiotics and superoxide-generating
+reagents (5, 9, 21, 25, 34, 36).
+We report here the acquisition of higher organic solvent
+tolerance in several E. coli strains by the high-copy-number
+marA gene or by exposure to salicylate. We identify marR08
+mutation, which is responsible for the cyclohexane-tolerant
+phenotype of OST3408 and its derivatives. Overexpression of
+the marA, soxS, orrobA gene also increases the resistance to
+numerous hydrophobic antibiotics but not to highly hydrophilic
+aminoglycosides.
+MATERIALS AND METHODS
+Bacterial strains and plasmids. The E. coli strains used in this study are listed
+in Table 1. Charomid 9-28 (a cosmid vector for cloning a 10- to 24-kb DNA
+fragment) was purchased from Nippon Gene Co. (Tokyo, Japan) (35). pBluescript
+II (pBSII) KS � and SK � vectors were purchased from Toyobo Biochemical,
+Inc. (Osaka, Japan). pHc3R is pBSII carrying the soxS gene on a 0.4-kb
+HincII fragment under the control of the lac promoter (32). pOST41BR is pBSII
+carrying the robA gene on a 1.9-kb SalI-BamHI fragment under the control of the
+lac promoter (33). �305 (2H2) is a Kohara � phage clone which spans the min 34
+region on the E. coli chromosome (23). Plasmid pHA102 is pBSII SK � carrying
+the marRAB genes on a 2.0-kb ScaI-ClaI fragment derived from �305. pHA103,
+pHA104, pHA105, pHA106, and pHA107 are deletion derivatives from pHA102
+containing the marAB, marR, marA, marB, and marRA genes, respectively (see
+Fig. 1a).
+Media and chemicals. E. coli cells were grown in modified Luria broth (LBG
+medium; pH was adjusted to 7.0) consisting of 1% (wt/vol) Bacto Tryptone
+(Difco Laboratories), 0.5% Bacto Yeast Extract (Difco), 1% NaCl, and 0.1%
+glucose at 37�C. In organic solvent tolerance assays, MgSO 4 was added (10 mM)
+to the LBG medium (LBGMg medium) to stabilize the viability of E. coli cells in
+VOL. 63, 1997 E. COLI ORGANIC SOLVENT AND ANTIBIOTIC TOLERANCE 1429
+TABLE 1. Bacterial strains used in this study
+Strain Genotype Reference
+W3110 � � rrnD rrnE 23
+� JA300 F leuB trpC thr lac thi rpsL hsdS 22
+� OST3408 F leuB trpC thr lac thi rpsL hsdS
+1
+marR08
+� OST3408Tc F leuB trpC thr lac thi rpsL hsdS
+This study
+marR08 zde-234::Tn10
+� OST4251 F trpC thr lac thi rpsL hsdS araD ksgA 3
+ostA
+MC1061 hsdR araD �(araABC-leu) lac galU
+8
+galK rpsL thi
+DH1 supE hsdR recA endA gyrA thi relA 17
+FS1576 supE hsdR thi leuB lacY recD 38
+PLK1110 zde-234::Tn10 argA pheA trp supE rpsL 7
+the presence of solvents (19). Organic solvents used for this study, diphenyl
+ether, n-hexane, cyclohexane, and p-xylene, were purchased from Wako Pure
+Chemical Industries (Osaka, Japan). Chloramphenicol, enoxacin, erythromycin,
+gentamicin, kanamycin, kasugamycin, nalidixic acid, neomycin, norfloxacin, novobiocin,
+ofloxacin, and phosphomycin (Sigma Chemical Co., Rahway, N.J.) and
+tetracycline hydrochloride (Wako Pure Chemical) were used for the antibiotic
+resistance assay. The logP ow values of antibiotics were calculated by the ClogP
+program (Adam Net Co., Tokyo, Japan) (24).
+Organic solvent tolerance assay. (i) Liquid-medium assay. A 100-�l culture of
+overnight-grown E. coli W3110 cells carrying pHA104 (marR) or pHA105
+(marA) was inoculated to 10 ml of fresh LBGMg medium and incubated at 37�C.
+At the early exponential phase of growth, the culture was overlaid with a 10%
+volume of cyclohexane and incubated at 37�C with shaking. Growth was monitored
+by measuring turbidity (optical density at 660 nm) and by counting the
+number of viable cells in the aqueous layer.
+(ii) Solid-medium assay. Freshly grown E. coli cells were suspended in 0.9%
+NaCl (approximately 10 7 cells per ml), and a drop of the suspension (5 �l) was
+spotted on a solid LBGMg medium. The surface of the medium was overlaid
+with an organic solvent to a thickness of 3 mm. The plates were sealed and
+incubated at 37�C for 14 h.
+In order to examine the effect of salicylate on organic solvent tolerance,
+colony-forming efficiency was measured. W3110 cells carrying pBSII or pHA105
+were grown in LBGMg medium (pH 7.0). At early stationary phase, the culture
+was diluted 20-fold with fresh LBGMg medium (5 ml) containing 2 mM sodium
+salicylate and incubated at 30�C for 100 min. When the cell turbidity (optical
+density at 660 nm) reached 0.4, serial 10-fold dilutions of the cultures were
+prepared and 5 �l of each suspension was spotted onto solid LBGMg medium
+containing 2 mM sodium salicylate. Approximately 10 5 ,10 4 ,10 3 ,10 2 , and 10 cells
+were contained in the spots. The medium was overlaid with cyclohexane and
+incubated at 37�C for 16 h.
+Antibiotic susceptibility. The MICs of various antibiotics were determined by
+a sequential dilution method (33). LBG medium liquid cultures containing different
+concentrations of antibiotic and freshly grown 10 3 cells of the tested E. coli
+strain were incubated at 37�C for 18 h. The lowest concentration of antibiotic
+which completely inhibited growth was defined as the MIC (15).
+Genetic analysis. DNA manipulations, including preparation of E. coli chromosomal
+DNA, plasmid DNA preparations, restriction enzyme digestion and
+ligation, and transformation of E. coli, were carried out by standard methods
+(26). Chromosome DNA fragments of E. coli OST3408 were ligated with Charomid
+9-28 and infected into JA300 cells by use of an in vitro packaging kit
+(LAMBDA INN; Nippon Gene Co.). Synthetic DNA oligonucleotides were
+purchased from Biologica Co. (Nagoya, Japan). The marRAB region of OST3408
+was amplified from the chromosome DNA by the TaKaRa EX Taq PCR method
+(TakaraShuzo Co. Ltd., Kyoto, Japan) using GeneAmp PCR System 2400 (Perkin-Elmer
+Applied Biosystems, Foster City, Calif.). Nucleotide sequences of the
+cloned DNA fragments were determined with a DNA sequencing system (model
+373A; Perkin-Elmer Applied Biosystems). The DNA sequence data were analyzed
+with the BioDatabase CD-ROM GENETYX-MAC/CD (Software Development
+Co., Tokyo, Japan).
+Generalized transduction was done with phage P1kc by the method described
+by Miller (30).
+RESULTS
+Cloning of the mar operon genes. Chromosomal DNA of E.
+coli OST3408 (cyclohexane tolerant [CH r ]) was prepared and
+partially digested with KpnI. The DNA fragments were inserted
+into cosmid vector Charomid 9-28 and were introduced
+into JA300 (cyclohexane-sensitive [CH s ]) cells. From 3.3 � 10 4
+ampicillin-resistant transformants, nine CH r colonies were selected.
+Plasmid pE1, containing a 20-kb DNA insert, was recovered
+from one of the colonies. Subclone analysis of the
+insert DNA on high-copy-number vector pBSII revealed that
+one of the plasmids containing a 3.0-kb fragment (designated
+pOST482) provided cyclohexane tolerance to JA300.
+The partially determined DNA sequence and restriction enzyme
+map showed that the 3.0-kb fragment contained the
+0.7-kb marRA locus, lacking the codons for the N-terminal 25
+amino acids of MarR and the codons for the C-terminal 16
+amino acids of MarA (designated mar�RA�). We obtained a
+complete length of the marRAB gene from the Kohara phage
+library 2H2 clone (23). A 2.0-kb ScaI-ClaI DNA fragment
+containing the marRAB region was subcloned into pBSII. The
+resultant plasmid, pHA102, was utilized for the following subcloning
+experiments (Fig. 1a).
+The marR08 mutation is responsible for the cyclohexanetolerant
+phenotype of OST3408. We designed a sense primer
+(5�-TCGCTATGGTTCCCGGACCGGC-3�) and an antisense
+primer (5�-GCAACCATGATTCACAGTCTGGTTA-3�) based
+on the 5� and 3� flanking sequences of the marRAB operon,
+respectively. In order to isolate the full-length marRAB operon
+from OST3408, PCR was performed using these synthesized
+oligonucleotides as primers and chromosome DNA of
+OST3408 as a template. From the resultant PCR product, the
+1.9-kb ScaI-ClaI DNA fragment containing the marRAB region
+was cloned into pBSII. DNA sequence analysis showed
+that the marR gene derived from OST3408 has one novel point
+mutation, a C3Atransition at codon 73 (Arg3Ser) (Fig.
+1b). We defined this mutant marR gene as marR08. We investigated
+whether the marR08 mutation is involved in the cyclohexane-tolerant
+phenotype. Transposon zde-234::Tn10 (Tc r )of
+E. coli PLK1110 is 0.4 min distant from the mar locus on the E.
+coli chromosome map. P1kc phage grown on PLK1110 (Tc r
+CH s ) was used to infect the recipient, OST3408 (Tc s CH r ).
+From 21 Tc r transductants, 11 strains showed cyclohexane tolerance
+(CH r ) and the others lost the tolerance (CH s ). One of
+the Tc r CH r strains, designated OST3408Tc, was used for further
+analysis. P1kc phage grown on OST3408Tc was used to
+infect Tc s -, CH s -recipient strains JA300, OST4251, MC1061,
+and FS1576. From the selected Tc r transductants, 12% (6 of
+50; JA300), 11% (2 of 18; OST4251), 9% (5 of 55; FS1576),
+and 18% (18 of 100; MC1061) of the strains showed the CH r
+phenotype. OST3408 and OST3408Tc were resistant to two- to
+fourfold higher concentrations of ampicillin, chloramphenicol,
+and nalidixic acid compared with JA300 and CH s transduction
+derivatives. We isolated the mar locus DNA fragment from
+one of the Tc r CH r transductants derived from JA300. Sequence
+analysis revealed that the CH r strain contained the
+marR08 mutation. These results indicate that the marR08 mutation
+is responsible for the cyclohexane-tolerant phenotype of
+OST3408 and its derivatives.
+Effect of marR or marA gene-expression on organic solvent
+tolerance. We constructed a series of subclones containing the
+marAB, marR, marA, marB, and marRA genes on high-copynumber
+vectors, designated pHA103, pHA104, pHA105,
+pHA106, and pHA107, respectively. Figure 1a shows the cyclohexane
+tolerance acquisition of JA300 cells carrying the
+marA gene under control of the lac promoter (pHA102,
+pHA103, pHA105, and pHA107). JA300 cells carrying the
+marA gene on a low-copy-number vector, pMW118, showed no
+growth in the presence of cyclohexane (pHA105L). These results
+indicate that overexpression of the marA gene increases
+organic solvent tolerance in E. coli. The high-copy-number
+marB gene (pHA106) had no effects on solvent tolerance.
+Interestingly, the marR08 gene on high-copy-number vectors
+1430 ASAKO ET AL. APPL. ENVIRON. MICROBIOL.
+FIG. 1. (a) Physical map of the plasmids containing the marRAB region and conferring cyclohexane tolerance. Open bars represent open reading frames of the
+marR, marA, and marB genes. Solid bars represent subclones in pBSII; only insert DNAs are shown. The grey bar represents a subclone on low-copy-number vector
+pMW119. Striped bars represent the DNA fragments from OST3408, and asterisks indicate the marR08 mutation. Arrows indicate the direction of the lac promoter
+on the vectors. Cyclohexane tolerance was tested by incubation of W3110 carrying each plasmid on LBGMg medium plates overlaid with cyclohexane; growth (�) or
+no growth (�) is indicated. (b) Nucleotide sequence change in the marR08 mutation. The DNA region affected by the mutation is shown together with the regions from
+the 67th to the 79th amino acids of the MarR protein.
+(pOST482 and pR08) raised the organic solvent tolerance of
+JA300.
+Turbidity and viability of W3110 cells carrying the highcopy-number
+marR or marA gene in the presence of organic
+solvent were measured. When cyclohexane was added to
+W3110 culture (10% [vol/vol]) at the early exponential phase
+of growth (approximately 5 � 10 7 cells/ml), the increase in
+turbidity completely stopped and the number of viable cells
+decreased by 10 �3 (Fig. 2). W3110 cells carrying pHA105
+(marA) maintained slow growth even in the presence of cyclohexane.
+The number of viable cells carrying pHA105 stayed
+between 5 � 10 6 and 2 � 10 7 /ml in 8 h. In contrast, the number
+of viable cells carrying pHA104 (marR) rapidly decreased to
+10 2 /ml by addition of cyclohexane (Fig. 2b). These growth
+characteristics indicate opposite functions of the marA and
+marR genes in susceptibility to organic solvents.
+Overexpression of marA increases organic solvent tolerance
+in several E. coli strains. We investigated the effects of overexpression
+of the marA and marR genes on organic solvent
+tolerance of several E. coli strains. Table 2 shows that most of
+the tested strains carrying the high-copy-number marA plasmid
+grew in the presence of cyclohexane. n-Hexane-sensitive strain
+DH1 acquired n-hexane tolerance by pHA105. These results
+suggest that the high-copy-number marA gene generally raises
+organic solvent tolerance levels of E. coli strains. No additional
+increase in the organic solvent tolerance of strain OST3408
+was observed. On the other hand, overexpression of the marR
+gene decreased organic solvent tolerance levels of E. coli
+strains.
+Effect of salicylate on organic solvent tolerance. Exposure of
+E. coli cells to salicylate derepresses the mar operon and increases
+resistance to several antibiotics (11). We investigated
+organic solvent tolerance levels of E. coli cells exposed to
+salicylate. Freshly grown W3110 cells were provided for assay
+of colony-forming efficiency on LBGMg medium containing 2
+mM sodium salicylate in the presence of cyclohexane. Although
+W3110 treated with salicylate formed two colonies
+from 10 cells, noninduced cells formed no colonies from 10 4
+cells (Fig. 3). W3110 cells carrying the high-copy-number
+marA plasmid showed the same colony-forming efficiency
+(Fig. 3).
+VOL. 63, 1997 E. COLI ORGANIC SOLVENT AND ANTIBIOTIC TOLERANCE 1431
+FIG. 2. Growth of E. coli W3110 carrying the marR or marA plasmid in the
+presence of cyclohexane. E. coli W3110 cells carrying pHA104 or pHA105 were
+incubated in 10 ml of LBGMg medium at 37�C, and at the time indicated with
+arrows, 1 ml of cyclohexane (CH) was added and incubated with shaking. (a)
+Growth of the cultures were monitored by measuring the turbidity (optical
+density at 660 nm [OD 660]). (b) Cultures were sampled periodically, and viable
+cells were counted on LBG medium plates. �, W3110, no organic solvent; F,
+W3110(pBSII); ■, W3110 carrying high-copy-number marA (pHA105); å,
+W3110 carrying high-copy-number marR (pHA104).
+Overexpression of the marA, robA, orsoxS gene increases
+resistance to hydrophobic antibiotics. The MarA protein has
+strong homology with Rob and SoxS proteins. We previously
+reported the close correlation between organic solvent tolerance
+and antibiotic resistance (4), with kanamycin as an exception.
+We calculated logP ow values of antibiotics from their
+structures and found that kanamycin (logP ow, �7.77) is highly
+hydrophilic. MICs of antibiotics, including highly hydrophilic
+substances, were measured in W3110 cells carrying the highcopy-number
+marA, robA, orsoxS plasmid. These stress response
+gene-activating cells showed increases in resistance to
+hydrophobic antibiotics, including novobiocin (logP ow, 3.84),
+nalidixic acid (logP ow, 1.57), chloramphenicol (logP ow, 1.14),
+erythromycin (logP ow, 0.65), ofloxacin (logP ow, �0.10), phosphomycin
+(logP ow, �0.26), norfloxacin (logP ow, �0.54), enoxacin
+(logP ow, �1.29), and tetracycline (logP ow, �1.86), but not
+to highly hydrophilic antibiotics, including kasugamycin
+(logP ow, �3.75), gentamicin (logP ow, �4.08), kanamycin
+(logP ow, �7.77), and neomycin (logP ow, �9.03) (Table 3).
+TABLE 2. Effect of high-copy-number marA and marR on organic
+solvent tolerance in several E. coli strains
+Strain Plasmid
+Growth in the presence of indicated organic solvent
+(logP ow) a
+DE (4.2) H (3.9) H-CH CH (3.4) pX (3.1)
+W3110 pBSII �� �� � � �
+W3110 pHA105 �� �� �� �� �
+W3110 pHA104 �� � � � �
+JA300 pBSII �� �� � � �
+JA300 pHA105 �� �� �� �� �
+JA300 pHA104 �� � � � �
+MC1061 pBSII �� �� � � �
+MC1061 pHA105 �� �� �� �� �
+MC1061 pHA104 �� � � � �
+DH1 pBSII �� � � � �
+DH1 pHA105 �� �� �� � �
+DH1 pHA104 � � � � �
+FS1576 pBSII �� �� �� � �
+FS1576 pHA105 �� �� �� �� �
+FS1576 pHA104 �� �� � � �
+OST3408 pBSII �� �� �� �� �
+OST3408 pHA105 �� �� �� �� �
+OST3408 pHA104 �� �� �� � �
+a A drop of E. coli cell suspension (5 �l) was spotted on a solid LBGMg
+medium and overlaid with an organic solvent. ��, luxuriant growth covered the
+entire surface of the spots; �, scattered colonies appeared in the spots; �, no
+growth; DE, diphenyl ether; H, n-hexane; H-CH, mixed solvent of n-hexane and
+cyclohexane (1:1, vol/vol); CH, cyclohexane; pX, p-xylene.
+DISCUSSION
+We isolated the mar operon region from an organic solventtolerant
+mutant E. coli strain, OST3408, and found a substitution
+mutation in the marR08 gene coding region. The MarR
+protein binds to the mar operator sequences and negatively
+regulates expression of the marRAB operon (27). The marA
+gene on a high-copy-number plasmid increased the organic
+solvent tolerance of several E. coli strains. On the other hand,
+the high-copy-number wild-type marR plasmid but not the
+marR08 plasmid decreased solvent tolerance. P1 transduction
+analysis revealed that the mar locus of the OST3408 strain is
+involved in the cyclohexane-tolerant phenotype.
+Mutations in the marR locus generally derepress the mar
+operon. Several marR mutations (e.g., marR1, soxQ1, and
+cfxB1), which have pleiotropic effects on antibiotic resistance
+and expression of oxidative stress genes, have been reported
+elsewhere (5). The MarR protein shows homology to a group
+of similarly small proteins containing EmrR, PecS, and HpcR,
+which act as negative regulators (37). The mutations in soxQ1
+(A70T), marR1 (R77L) and marR08 (R73S) are located at the
+FIG. 3. Effect of salicylate on organic solvent tolerance. Colony-forming efficiency
+of E. coli W3110 in the presence of n-hexane is shown. W3110 cells
+carrying pBSII and pHA105 were spotted on LBGMg medium. W3110 cells
+exposed to salicylate were spotted on LBGMg medium containing 2 mM sodium
+salicylate. The spots contained approximately 10 (column 1), 10 2 (column 2), 10 3
+(column 3), 10 4 (column 4), and 10 5 (column 5) cells.
+1432 ASAKO ET AL. APPL. ENVIRON. MICROBIOL.
+TABLE 3. Effects of marA, robA and soxS on antibiotic resistance
+Antibiotic logP ow
+MIC (�g/ml) for W3110 cells carrying:
+pBSII pHA105
+(marA)
+pOST41BR
+(robA)
+pHc3R
+(soxS)
+Novobiocin 3.84 200 800 800 800
+Nalidixic acid 1.57 6.3 25 25 50
+Chloramphenicol 1.14 6.3 50 50 50
+Erythromycin 0.65 200 400 800 800
+Ofloxacin �0.01 0.10 0.39 0.39 0.78
+Phosphomycin �0.26 1.6 12.5 6.3 12.5
+Norfloxacin �0.54 0.10 0.78 0.78 0.78
+Enoxacin �1.29 0.20 0.78 0.78 0.78
+Tetracycline �1.86 3.1 6.3 6.3 6.3
+Kasugamycin a �3.75 400 400 400 400
+Gentamicin a �4.08 3.1 3.1 3.1 3.1
+Kanamycin �7.77 6.3 6.3 6.3 6.3
+Neomycin �9.03 12.5 12.5 12.5 12.5
+a E. coli JA300 was used for the MIC assay.
+conserved region of the marR gene. We believe that the
+marR08 gene loses its function as a mar repressor and derepresses
+the mar operon. We observed that overexpression of
+the marR08 gene conferred cyclohexane tolerance on JA300,
+which has the wild-type marR gene on its chromosome. On the
+other hand, strain OST3408 carrying the high-copy-number
+wild-type marR gene (pHA104; Table 2) lost cyclohexane tolerance.
+MarR is considered to form concentration-dependent
+oligomeric structures to bind the marO operator (37). This
+result suggests that MarR08 forms heterologous, less functional
+multimers with wild-type MarR, but excess wild-type
+MarR can form a functional structure in spite of the existence
+of MarR08. Several E. coli strains were provided the cyclohexane-tolerant
+phenotype by introducing the mar locus of
+OST3408 utilizing P1kc transduction selected with the
+zde-234::Tn10 marker. Introduction of this locus by P1 transduction
+may be a useful method for improving organic solvent
+tolerance of E. coli strains.
+We observed that exposure to salicylate increases the organic
+solvent tolerance of E. coli cells. This result is expected
+and reasonable. Salicylate appears to induce the mar operon by
+binding to MarR and inhibiting complex formation with the
+marO operator (27). But it is not easy to optimize the condition
+of salicylate exposure, because salicylate itself is toxic to microorganisms.
+Cohen et al. reported that exposure of E. coli
+cells to 5 mM sodium salicylate increased resistance to various
+antibiotics (11). We observed that exposure to 5 mM sodium
+salicylate slightly inhibited growth of W3110 cells and decreased
+organic solvent tolerance. Exposure to 0.5 mM salicylate
+had no effect on the solvent tolerance of E. coli W3110
+(data not shown). We also observed that treatment with redoxcycling
+reagent, which induces the sox regulon genes, increases
+organic solvent tolerance at the same level of overexpression of
+the soxS gene in several E. coli strains (data not shown). Addition
+of these chemical compounds is a simple and convenient
+method to improve the organic solvent tolerance of E. coli
+strains. We expect that this method may be utilized for industrial
+E. coli strains.
+Derepression of the mar operon causes an increase in MarA,
+a transcriptional activator protein, and elevates expression of
+the mar regulon genes (15). We observed that overexpression
+of the marA gene raised the organic solvent tolerance of E. coli
+strains. We conclude that induction of mar regulon genes increases
+organic solvent tolerance of E. coli cells.
+We previously reported that overexpression of the soxS and
+robA genes increased organic solvent tolerance in E. coli (32,
+33). Some of the mar regulon genes overlap members of the
+soxRS regulon (21). Overexpression of the Rob protein increases
+resistance to multiple antibiotics, including chloramphenicol,
+tetracycline, nalidixic acid, and puromycin (6, 33).
+We propose that overexpression of the marA, robA, and soxS
+genes raises the organic solvent tolerance of E. coli cells by the
+common response to general stress, such as superoxide radicals
+and antibiotic agents.
+Little is known about mechanisms of organic solvent tolerance
+in bacterial cells. An energy-dependent export system
+may be responsible for the resistance of P. putida S12 to toluene
+(20). The mar locus of E. coli may positively influence an
+active efflux of chloramphenicol (29). Overexpression of the
+alkylhydroperoxide reductase gene increases organic solvent
+resistance in E. coli (13). There is a possibility that induction of
+the mar regulon activates such efflux pumps or hydroperoxide
+reductases.
+We observed that overexpression of the stress response
+genes increased resistance to a broad spectrum of antibiotics
+but not to several highly hydrophilic antibiotics, including kasugamycin,
+gentamicin, kanamycin, and neomycin. All these
+drugs are members of the basic oligosaccharide group. It is
+suggested that the general stress response system does not
+interact with basic oligosaccharide antibiotics or highly hydrophilic
+compounds. There is the possibility that activation of the
+stress response system by MarA, SoxS, and Rob activators
+nonspecifically increases the resistance to hydrophobic chemical
+compounds, including organic solvents.
+We thank Koki Horikoshi for eager discussions and helpful comments
+on this study. We are grateful to Chiaki Kato, Japan Marine
+Science and Technology Center, for determination of the DNA sequence.
+This work was supported in part by a grant-in-aid (Bio Media Program:
+BMP 96-V-1-3-6) from the Ministry of Agriculture, Forestry and
+Fisheries.
+1. Aono, R., K. Aibe, A. Inoue, and K. Horikoshi. 1991. Preparation of organic
+solvent-tolerant mutants from Escherichia coli. Agric. Biol. Chem. 55:1935–
+1938.
+2. Aono, R., M. Ito, and K. Horikoshi. 1992. Isolation of novel toluene-tolerant
+strain of Pseudomonas aeruginosa. Biosci. Biotechnol. Biochem. 56:145–146.
+3. Aono, R., T. Negishi, and H. Nakajima. 1994. Cloning of organic solvent
+tolerance gene ostA that determines n-hexane tolerance level in Escherichia
+coli. Appl. Environ. Microbiol. 60:4624–4626.
+4. Aono, R., M. Kobayashi, H. Nakajima, and H. Kobayashi. 1995. A close
+correlation between improvement of organic solvent tolerance levels and
+alteration of resistance toward low levels of multiple antibiotics in Escherichia
+coli. Biosci. Biotechnol. Biochem. 59:213–218.
+5. Ariza, R. R., S. P. Cohen, N. Bachhawat, S. B. Levy, and B. Demple. 1994.
+Repressor mutations in the marAB operon that activate oxidative stress
+genes and multiple antibiotic resistance in Escherichia coli. J. Bacteriol.
+176:143–148.
+6. Ariza, R. R., Z. Li, N. Ringstad, and B. Demple. 1995. Activation of multiple
+antibiotic resistance and binding of stress-inducible promoters by Escherichia
+coli Rob protein. J. Bacteriol. 177:1655–1661.
+7. Bitner, R. M., and P. L. Kuempel. 1981. P1 transduction map spanning the
+replication terminus of Escherichia coli K-12. Mol. Gen. Genet. 184:208–212.
+8. Casadaban, M. J., and S. N. Cohen. 1980. Analysis of gene control signals by
+DNA fusion and cloning in Escherichia coli. J. Mol. Biol. 138:179–207.
+9. Cohen, S. P., L. M. McMurry, and S. B. Levy. 1988. marA locus causes
+decreased expression of OmpF porin in multiple-antibiotic-resistant (Mar)
+mutants of Escherichia coli. J. Bacteriol. 170:5416–5422.
+10. Cohen, S. P., H. Hächler, and S. B. Levy. 1993. Genetic and functional
+analysis of the multiple antibiotic resistance (mar) locus in Escherichia coli.
+J. Bacteriol. 175:1484–1492.
+11. Cohen, S. P., S. B. Levy, J. Foulds, and F. L. Rosner. 1993. Salicylate
+induction of antibiotic resistance in Escherichia coli: activation of the mar
+VOL. 63, 1997 E. COLI ORGANIC SOLVENT AND ANTIBIOTIC TOLERANCE 1433
+operon and mar-independent pathway. J. Bacteriol. 175:7856–7862.
+12. Corwin, H., and S. M. Anderson. 1967. The effect of intramolecular hydrophobic
+bonding on partition coefficients. J. Org. Chem. 32:2583–2586.
+13. Ferrante, A. A., J. Augliera, K. Lewis, and A. M. Klibanov. 1995. Cloning of
+an organic solvent-resistance gene in Escherichia coli: the unexpected role of
+alkylhydroperoxide reductase. Proc. Natl. Acad. Sci. USA 92:7617–7621.
+14. Gallegos, M. T., C. Michán, and J. L. Ramos. 1993. The XylS/AraC-family of
+regulators. Nucleic Acids Res. 21:807–810.
+15. Gambino, L., S. J. Gracheck, and P. F. Miller. 1993. Overexpression of the
+MarA positive regulator is sufficient to confer multiple antibiotic resistance
+in Escherichia coli. J. Bacteriol. 175:2888–2894.
+16. Hächler, H., S. P. Cohen, and S. B. Levy. 1991. marA, a regulated locus which
+controls expression of chromosomal multiple antibiotic resistance in Escherichia
+coli. J. Bacteriol. 173:5532–5538.
+17. Hanahan, D. 1983. Studies on transformation of Escherichia coli with plasmids.
+J. Mol. Biol. 166:557–580.
+18. Inoue, A., and K. Horikoshi. 1989. A Pseudomonas thrives in high concentration
+of toluene. Nature (London) 338:264–265.
+19. Inoue, A., and K. Horikoshi. 1991. Estimation of solvent-tolerance of bacteria
+by the solvent parameter log P. J. Ferment. Bioeng. 77:194–196.
+20. Isken, S., and J. A. M. deBont. 1996. Active efflux of toluene in a solventresistant
+bacterium. J. Bacteriol. 178:6056–6058.
+21. Jair, K.-W., R. G. Martin, J. L. Rosner, N. Fujita, A. Ishihama, and R. E.
+Wolf, Jr. 1995. Purification and regulatory properties of MarA protein, a
+transcriptional activator of Escherichia coli multiple antibiotic resistance and
+superoxide resistance promoters. J. Bacteriol. 177:7100–7104.
+22. Kingsman, A. J., L. Clarke, R. K. Mortimer, and J. Carbon. 1979. Replication
+in Saccharomyces cerevisiae of plasmid pBR313 carrying DNA from the
+yeast trp1 region. Gene 7:141–152.
+23. Kohara, Y., K. Akiyama, and K. Isono. 1987. The physical map of the whole
+E. coli chromosome: application of a new strategy for rapid analysis and
+sorting of a large genomic library. Cell 50:495–508.
+24. Leo, A. J. 1995. Critique of recent comparison of logP calculation methods.
+Chem. Pharm. Bull. 43:512–513.
+25. Ma, D., D. N. Cook, M. Alberti, N. G. Pon, H. Nikaido, and J. E. Hearst.
+1995. Genes acrA and acrB encode a stress-induced efflux system of Escherichia
+coli. Mol. Microbiol. 16:45–55.
+26. Maniatis, T., E. F. Fritsch, and J. Sambrook. 1982. Molecular cloning: a
+laboratory manual. Cold Spring Harbor Laboratory, Cold Spring Harbor,
+N.Y.
+27. Martin, R. G., and J. L. Rosner. 1995. Binding of purified multiple antibioticresistance
+repressor protein (MarR) to mar operator sequences. Proc. Natl.
+Acad. Sci. USA 92:5456–5460.
+28. Martin, R. G., K.-W. Jair, R. E. Wolf, Jr., and J. L. Rosner. 1996. Autoactivation
+of the marRAB multiple antibiotic resistance operon by the MarA
+transcriptional activator in Escherichia coli. J. Bacteriol. 178:2216–2223.
+29. McMurry, L. M., A. M. George, and S. B. Levy. 1994. Active efflux of
+chloramphenicol in susceptible Escherichia coli strains and in multiple-antibiotic-resistant
+(Mar) mutants. Antimicrob. Agents Chemother. 38:542–546.
+30. Miller, J. H. 1972. Experiments in molecular genetics. Cold Spring Harbor
+Laboratory, Cold Spring Harbor, N.Y.
+31. Nakajima, H., H. Kobayashi, R. Aono, and K. Horikoshi. 1992. Effective
+isolation and identification of toluene-tolerant Pseudomonas strains. Biosci.
+Biotechnol. Biochem. 56:1872–1873.
+32. Nakajima, H., M. Kobayashi, T. Negishi, and R. Aono. 1995. soxRS gene
+increased the level of organic solvent tolerance in Escherichia coli. Biosci.
+Biotechnol. Biochem. 59:1323–1325.
+33. Nakajima, H., K. Kobayashi, M. Kobayashi, H. Asako, and R. Aono. 1995.
+Overexpression of the robA gene increases organic solvent tolerance and
+multiple antibiotic and heavy metal ion resistance in Escherichia coli. Appl.
+Environ. Microbiol. 61:2302–2307.
+34. Rosner, J. L., and J. L. Slonczewski. 1994. Dual regulation of inaA by the
+multiple antibiotic resistance (Mar) and superoxide (SoxRS) stress response
+systems of Escherichia coli. J. Bacteriol. 176:6262–6269.
+35. Saito, I., and G. R. Stark. 1986. Charomids: cosmid vectors for efficient
+cloning and mapping of large or small restriction fragments. Proc. Natl.
+Acad. Sci. USA 83:8664–8668.
+36. Seoane, A. S., and S. B. Levy. 1995. Identification of new genes regulated by
+the marRAB operon in Escherichia coli. J. Bacteriol. 177:530–535.
+37. Seoane, A. S., and S. B. Levy. 1995. Characterization of MarR, the repressor
+of the multiple antibiotic resistance (mar) operon in Escherichia coli. J.
+Bacteriol. 177:3414–3419.
+38. Stahl, F. W., I. Kobayashi, D. Thaler, and M. M. Stahl. 1986. Direction of
+travel of RecBC recombinase through bacteriophage lambda DNA. Genetics
+113:215–229.

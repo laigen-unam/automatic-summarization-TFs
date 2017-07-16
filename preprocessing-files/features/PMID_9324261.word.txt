@@ -1,0 +1,5 @@
+The MarA protein is homologous to both SoxS , the effector of the soxRS regulon ( 14 , 32 ) , and RobA , a small protein that binds to the E. coli replication origin and some stress gene promoters ( 7 , 9 , 31 , 45 ) .
+The better effect of the latter plasmid than those containing only marA could be linked to greater production of MarA protein from this plasmid ( as visualized by antibody to MarA [ 1 ] ) .
+E. coli strains overexpressing MarA ( JHC1069 ; cfxB1/MarR mutation ) or SoxS ( JTG1078 ; soxR105 mutation ) grew in the presence of both n-hexane and cyclohexane , whereas wild-type GC4468 grew only in the presence of n-hexane ( Table 3 ) .
+Western blot studies ( data not shown ) ( 1 ) with antibodies to MarA showed that this was at least partially due to increased expression of MarA , compared to TU2 alone , although the presence of marC may be additionally involved .
+Overexpression of the MarA positive regulator is sufficient to confer multiple antibiotic resistance in Escherichia coli .

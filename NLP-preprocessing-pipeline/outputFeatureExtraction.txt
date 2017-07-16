@@ -1,0 +1,18 @@
+-------------------------------- PARAMETERS --------------------------------
+Path to read files: ../preprocessing-files/transformed
+Path to write feature extraction files: ../preprocessing-files/features
+Types of feature to extract: lemma_lemma_pos_pos,word
+Output file: MarA.txt
+Entity name to filter sentences: MarA
+Concatenate all text into one file?: True
+Features list: ['lemma_lemma_pos_pos', 'word']
+Pattern for entity names to filter: MarA\|
+Extracting feature: lemma_lemma_pos_pos
+   Extracting features from file...PMID_9097440.tra.txt
+   Extracting features from file...PMID_9324261.tra.txt
+   Extracting features from file...PMID_8955629.tra.txt
+Extracting feature: word
+   Extracting features from file...PMID_9097440.tra.txt
+   Extracting features from file...PMID_9324261.tra.txt
+   Extracting features from file...PMID_8955629.tra.txt
+Files processed: 6

@@ -1,0 +1,45 @@
+-------------------------------- PARAMETERS --------------------------------
+Path to read input files: ../preprocessing_pipeline/original
+Path to place output files: ../preprocessing_pipeline/preprocessed
+Perform term detection?: True
+Path to read terminological resources: ../termLists
+JSON file with terms files and length: termFilesLength_TFSummarization.json
+Processing multidocuments within input file?: False
+File with format PMID	NUMSENT	SENT	CLASS?: False
+Join separated punctuation?: False
+   Terms read 3 size: 7518
+   Terms read 2 size: 7124
+   Terms read 4 size: 6052
+   Terms read 5 size: 5413
+Preprocessing files...
+   Preprocessing file...PMID_9324261.txt
+Unnecessary line b'Copyright \xc2\xa9 1997, American Society for Microbiology\n'
+Unnecessary line b'Received 13 May 1997/Accepted 19 July 1997\n'
+Unnecessary line b'* Corresponding author. Mailing address: Center for Adaptation\n'
+Unnecessary line b'Downloaded from\n'
+Unnecessary line b'Downloaded from\n'
+Unnecessary line b'Downloaded from\n'
+Unnecessary line b'ACKNOWLEDGMENTS\n'
+Unnecessary line b'REFERENCES\n'
+Unnecessary line b'Downloaded from\n'
+Reference line b'Washington, D.C.\n'
+Reference line b'Washington, D.C.\n'
+Unnecessary line b'Downloaded from\n'
+     Detecting biological terms...
+   Preprocessing file...PMID_9097440.txt
+Unnecessary line b'Copyright \xef\xbf\xbd 1997, American Society for Microbiology\n'
+Unnecessary line b'Received 30 September 1996/Accepted 6 February 1997\n'
+Unnecessary line b'* Corresponding author. Mailing address: Department of Bioengineering,\n'
+Unnecessary line b'ACKNOWLEDGMENTS\n'
+Unnecessary line b'REFERENCES\n'
+     Detecting biological terms...
+   Preprocessing file...PMID_8955629.txt
+Unnecessary line b'Keywords: Superoxide; Nitric oxide; Transcriptional control; FeS clusters\n'
+Unnecessary line b'Abbreviations: aa, amino acid(s); bp, base pair(s); epr, electron para-\n'
+Reference line b"Ansari, A.Z., Chael, M.L. and O'Halloran, T.V. (1992) Allosteric\n"
+Reference line b'Ariza, R.R., Li, Z., Ringstad, N. and Demple, B. (1995) Activation of\n'
+Reference line b'Chou, J.H., Greenberg, J.T. and Demple, B. (1993) Post-transcriptional\n'
+     Detecting biological terms...
+
+Files preprocessed: 3
+In: 1.241951s

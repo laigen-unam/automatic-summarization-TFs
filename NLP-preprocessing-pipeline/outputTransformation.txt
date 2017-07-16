@@ -1,0 +1,12 @@
+-------------------------------- PARAMETERS --------------------------------
+Path to read input files: ../preprocessing-pipeline/term
+Path to place transformed files: ../preprocessing-pipeline/transformed
+Minimum length sentence in number of words: 5
+Classes to indicate final of sentence: None
+Transforming files...
+   Transforming file...PMID_9324261.term.txt
+   Transforming file...PMID_8955629.term.txt
+   Transforming file...PMID_9097440.term.txt
+
+Files processed: 3
+In: 0.099358s

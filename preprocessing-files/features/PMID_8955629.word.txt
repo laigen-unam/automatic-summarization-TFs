@@ -1,0 +1,5 @@
+These include the 13-kDa MarA protein ( Cohen et al. , 1993 ) , whose regulatory specificity overlaps that of SoxS ( Ariza et al. , 1995 ) , and the 33-kDa Rob protein , with an homologous N-terminus ( Skarstad et al. , 1993 ; Cohen et al. , 1993 ) .
+Rob was identified by its binding to the right arm of the E. coli replication origin ( Skarstad et al. , 1993 ) ; we tested whether the sequence similarity of Rob , MarA and SoxS might underlie a regulatory overlap among these proteins .
+TetD 60 SoxS 55 MarA 51 ] Cafl R 46 [ AflR 46 RhaS 31 AraC 26 Fig. 2 .
+The proteins ( SoxS , MarA , Rob , etc. ) are named after their respective genes .
+The clear homology of SoxS and MarA suggests that these two proteins operate by a similar mechanism to activate some of the same genes , and our biochemical studies with the SoxS protein provide a clear guide for future work with MarA .

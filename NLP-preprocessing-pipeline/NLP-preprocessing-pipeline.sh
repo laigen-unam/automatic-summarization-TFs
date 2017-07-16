@@ -1,32 +1,36 @@
 #!/bin/sh
 echo 'Preprocessing files...'
 # Path for original text articles
-ORIGINAL_CORPUS_PATH=../text-articles/original
+ORIGINAL_CORPUS_PATH=../preprocessing-files/original
 # Path with directories employed to save preprocessing
-PREPROCESSING_PATH=../preprocessing_pipeline
+PREPROCESSING_PATH=../preprocessing-files
 # Path for term lists
 TERM_PATH=../termLists
 # Path for Stanford POS Tagger
 STANFORD_POSTAGGER_PATH=/home/cmendezc/STANFORD_POSTAGGER/stanford-postagger-2015-12-09
 # Path for BioLemmatizer
 BIO_LEMMATIZER_PATH=/home/cmendezc/BIO_LEMMATIZER
+# TF name to be summarized
+TF_NAME=MarA
 
-PRE=TRUE
+PRE=FALSE
 echo "   Preprocessing: $PRE"
-POS=TRUE
+POS=FALSE
 echo "   POS Tagging: $POS"
-LEMMA=TRUE
+LEMMA=FALSE
 echo "   Lemmatization: $LEMMA"
-TERM=TRUE
+TERM=FALSE
 echo "   Terminological tagging: $TERM"
-TRANS=TRUE
+TRANS=FALSE
 echo "   Transformation: $TRANS"
+FEAT=TRUE
+echo "   Feature extraction: $FEAT"
 
 if [ "$PRE" = "TRUE" ]; then
 echo "Preprocessing..."
 INPUT_PATH=$ORIGINAL_CORPUS_PATH
 OUTPUT_PATH=$PREPROCESSING_PATH/preprocessed
-python3.4 preprocessingTermDetection.py --inputPath $INPUT_PATH --outputPath $OUTPUT_PATH --termDetection --termPath $TERM_PATH --termFiles termFilesLength_LREGULONDB.json > outputPreprocessing.txt
+python3.4 preprocessingTermDetection.py --inputPath $INPUT_PATH --outputPath $OUTPUT_PATH --termDetection --termPath $TERM_PATH --termFiles termFilesLength_TFSummarization.json > outputPreprocessing.txt
 fi
 
 if [ "$POS" = "TRUE" ]; then
@@ -47,12 +51,19 @@ if [ "$TERM" = "TRUE" ]; then
 echo "Terminological tagging..."
 INPUT_PATH=$PREPROCESSING_PATH/lemma
 OUTPUT_PATH=$PREPROCESSING_PATH/term
-python3.4 biologicalTermTagging.py --inputPath $INPUT_PATH --outputPath $OUTPUT_PATH --termPath $TERM_PATH --termFiles termFilesTag_LREGULONDB.json > outputTerm_lregulondb.txt
+python3.4 biologicalTermTagging.py --inputPath $INPUT_PATH --outputPath $OUTPUT_PATH --termPath $TERM_PATH --termFiles termFilesTag_TFSummarization_FreqWords.json > outputTerm.txt
 fi
 
 if [ "$TRANS" = "TRUE" ]; then
 echo "Transformation..."
 INPUT_PATH=$PREPROCESSING_PATH/term
 OUTPUT_PATH=$PREPROCESSING_PATH/transformed
-python3.4 transforming.py --inputPath $INPUT_PATH --outputPath $OUTPUT_PATH --minWordsInLine 5 > outputTransformation_lregulondb.txt
+python3.4 transforming.py --inputPath $INPUT_PATH --outputPath $OUTPUT_PATH --minWordsInLine 5 > outputTransformation.txt
+fi
+
+if [ "$FEAT" = "TRUE" ]; then
+echo "Feature extraction..."
+INPUT_PATH=$PREPROCESSING_PATH/transformed
+OUTPUT_PATH=$PREPROCESSING_PATH/features
+python3.4 featureExtractionPapers.py --inputPath $INPUT_PATH --outputPath $OUTPUT_PATH --feature lemma_lemma_pos_pos,word --outputFile $TF_NAME.txt --entityName $TF_NAME --concatenate > outputFeatureExtraction.txt
 fi

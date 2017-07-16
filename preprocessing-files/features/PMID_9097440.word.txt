@@ -1,0 +1,9 @@
+The MarA protein is a member of the AraC subfamily of helix-turn-helix transcriptional activators and has more than 45 % sequence identity with the SoxS and Rob proteins ( 10 , 14 , 15 ) .
+The MarA protein controls a set of genes ( mar and soxRS regulons , including sodA , nfo , micF , inaA , fumC , zwf , and fpr ) and provides E. coli cells with resistance to a large number of antibiotics and superoxide-generating reagents ( 5 , 9 , 21 , 25 , 34 , 36 ) .
+The partially determined DNA sequence and restriction enzyme map showed that the 3.0-kb fragment contained the 0.7-kb marRA locus , lacking the codons for the N-terminal 25 amino acids of MarR and the codons for the C-terminal 16 amino acids of MarA ( designated mar RA ) .
+The MarA protein has strong homology with Rob and SoxS proteins .
+Derepression of the mar operon causes an increase in MarA , a transcriptional activator protein , and elevates expression of the mar regulon genes ( 15 ) .
+There is the possibility that activation of the stress response system by MarA , SoxS , and Rob activators nonspecifically increases the resistance to hydrophobic chemical compounds , including organic solvents .
+Overexpression of the MarA positive regulator is sufficient to confer multiple antibiotic resistance in Escherichia coli .
+Purification and regulatory properties of MarA protein , a transcriptional activator of Escherichia coli multiple antibiotic resistance and superoxide resistance promoters .
+Autoactivation of the marRAB multiple antibiotic resistance operon by the MarA transcriptional activator in Escherichia coli .

@@ -1,0 +1,12 @@
+-------------------------------- PARAMETERS --------------------------------
+Path to read input files: ../preprocessing_pipeline/preprocessed
+Path to place output files: ../preprocessing_pipeline/pos
+Path POS Tagger command: /home/cmendezc/STANFORD_POSTAGGER/stanford-postagger-2015-12-09
+Format for biolemmatizer?: True
+Tagging corpus...
+   Tagging file...PMID_9324261.pre.txt
+   Tagging file...PMID_9097440.pre.txt
+   Tagging file...PMID_8955629.pre.txt
+
+Files POS Tagged: 3
+Files POS Tagged in: 5.029775s
