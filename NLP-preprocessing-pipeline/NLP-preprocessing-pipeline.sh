@@ -13,15 +13,15 @@ BIO_LEMMATIZER_PATH=/home/cmendezc/BIO_LEMMATIZER
 # TF name to be summarized
 TF_NAME=MarA
 
-PRE=FALSE
+PRE=TRUE
 echo "   Preprocessing: $PRE"
-POS=FALSE
+POS=TRUE
 echo "   POS Tagging: $POS"
-LEMMA=FALSE
+LEMMA=TRUE
 echo "   Lemmatization: $LEMMA"
-TERM=FALSE
+TERM=TRUE
 echo "   Terminological tagging: $TERM"
-TRANS=FALSE
+TRANS=TRUE
 echo "   Transformation: $TRANS"
 FEAT=TRUE
 echo "   Feature extraction: $FEAT"

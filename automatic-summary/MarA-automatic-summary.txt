@@ -1,0 +1,1 @@
+The MarA protein controls a set of genes ( mar and soxRS regulons , including sodA , nfo , micF , inaA , fumC , zwf , and fpr ) and provides E. coli cells with resistance to a large number of antibiotics and superoxide-generating reagents ( 5 , 9 , 21 , 25 , 34 , 36 ) .
