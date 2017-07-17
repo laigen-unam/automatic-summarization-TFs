@@ -1,16 +1,16 @@
 -------------------------------- PARAMETERS --------------------------------
-Path to read input files: ../preprocessing_pipeline/original
-Path to place output files: ../preprocessing_pipeline/preprocessed
+Path to read input files: ../preprocessing-files/original
+Path to place output files: ../preprocessing-files/preprocessed
 Perform term detection?: True
 Path to read terminological resources: ../termLists
 JSON file with terms files and length: termFilesLength_TFSummarization.json
 Processing multidocuments within input file?: False
 File with format PMID	NUMSENT	SENT	CLASS?: False
 Join separated punctuation?: False
-   Terms read 3 size: 7518
-   Terms read 2 size: 7124
    Terms read 4 size: 6052
    Terms read 5 size: 5413
+   Terms read 3 size: 7518
+   Terms read 2 size: 7124
 Preprocessing files...
    Preprocessing file...PMID_9324261.txt
 Unnecessary line b'Copyright \xc2\xa9 1997, American Society for Microbiology\n'
@@ -42,4 +42,4 @@ Reference line b'Chou, J.H., Greenberg, J.T. and Demple, B. (1993) Post-transcri
      Detecting biological terms...
 
 Files preprocessed: 3
-In: 1.241951s
+In: 1.243579s

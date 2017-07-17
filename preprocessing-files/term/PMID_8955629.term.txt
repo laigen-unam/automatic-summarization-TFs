@@ -106,13 +106,13 @@ system	FWRP	system FWRP FreqTag
 
 The	DT	the dt NUPOS
 SoxS	TF	SoxS TF TermTag
-protein	FWDOM	protein FWDOM FreqTag
+protein	FWRP	protein FWRP FreqTag
 represents	VBZ	represent VBZ PennPOS
 a	DT	a dt NUPOS
 growing	VBG	grow VBG PennPOS
 family	FWDOM	family FWDOM FreqTag
 of	IN	of pp-f NUPOS
-transcription	PRO	transcription PRO TermTag
+transcription	FWRP	transcription FWRP FreqTag
 activators	NNS	activator NNS PennPOS
 that	WDT	that WDT PennPOS
 stimulate	VBP	stimulate VBP PennPOS
@@ -130,10 +130,10 @@ SoxR	TF	SoxR TF TermTag
 is	VBZ	be vbz NUPOS
 an	DT	a dt NUPOS
 unusual	JJ	unusual JJ PennPOS
-transcription	PRO	transcription PRO TermTag
+transcription	FWRP	transcription FWRP FreqTag
 factor	FWDOM	factor FWDOM FreqTag
 whose	WP$	who r-crq NUPOS
-activity	FWDOM	activity FWDOM FreqTag
+activity	FWRP	activity FWRP FreqTag
 in	FW	in fw-la NUPOS
 vitro	FW	vitro FW PennPOS
 can	MD	can vmb NUPOS
@@ -170,7 +170,7 @@ soxS	NN	soxS NN PennPOS
 promoter	FWRP	promoter FWRP FreqTag
 to	TO	to p-acp NUPOS
 activate	FWRP	activate FWRP FreqTag
-transcription	PRO	transcription PRO TermTag
+transcription	FWRP	transcription FWRP FreqTag
 .	.	. . NUPOS
 
 When	WRB	when c-crq NUPOS
@@ -289,7 +289,7 @@ pendent	JJ	pendent JJ PennPOS
 multigene	JJ	multigene JJ PennPOS
 responses	NNS	response NNS PennPOS
 to	TO	to p-acp NUPOS
-two	FWDOM	two FWDOM FreqTag
+two	FWRP	two FWRP FreqTag
 kinds	NNS	kind NNS PennPOS
 of	IN	of pp-f NUPOS
 oxidative	JJ	oxidative JJ PennPOS
@@ -334,7 +334,7 @@ regulon	FWRP	regulon FWRP FreqTag
 which	WDT	which r-crq NUPOS
 coordinates	VBZ	coordinate VBZ PennPOS
 the	DT	the dt NUPOS
-transcriptional	FWDOM	transcriptional FWDOM FreqTag
+transcriptional	FWRP	transcriptional FWRP FreqTag
 induction	NN	induction NN PennPOS
 of	IN	of pp-f NUPOS
 at	IN	at pp NUPOS
@@ -534,7 +534,7 @@ of	IN	of pp-f NUPOS
 the	DT	the dt NUPOS
 soxRS	NN	soxRS NN PennPOS
 regulon	FWRP	regulon FWRP FreqTag
-also	FWDOM	also FWDOM FreqTag
+also	FWRP	also FWRP FreqTag
 confers	VBZ	confer VBZ PennPOS
 resistance	FWRP	resistance FWRP FreqTag
 to	TO	to p-acp NUPOS
@@ -558,14 +558,14 @@ al.	FW	al. FW PennPOS
 )	)	) ) NUPOS
 ,	,	, , NUPOS
 and	CC	and cc NUPOS
-two	FWDOM	two FWDOM FreqTag
+two	FWRP	two FWRP FreqTag
 known	JJ	known j-vvn NUPOS
 soxRS	NN	soxRS NN PennPOS
 -	:	- : NUPOS
 regulated	VBN	regulate VBN PennPOS
 genes	FWRP	gene FWRP FreqTag
 encode	VBP	encode VBP PennPOS
-proteins	FWDOM	protein FWDOM FreqTag
+proteins	FWRP	protein FWRP FreqTag
 prevent	VB	prevent VBP PennPOS
 antibiotics	FWRP	antibiotic FWRP FreqTag
 from	IN	from pp NUPOS
@@ -580,12 +580,12 @@ Table	NNP	table NN PennPOS
 .	.	. . NUPOS
 
 Gene	NN	gene NN PennPOS
-activation	FWDOM	activation FWDOM FreqTag
+activation	FWRP	activation FWRP FreqTag
 by	IN	by IN PennPOS
 soxRS	NN	soxRS NN PennPOS
 occurs	VBZ	occur VBZ PennPOS
 in	IN	in IN PennPOS
-two	FWDOM	two FWDOM FreqTag
+two	FWRP	two FWRP FreqTag
 stages	NNS	stage NNS PennPOS
 (	(	( ( NUPOS
 Nunoshiba	NNP	Nunoshiba NNP PennPOS
@@ -600,7 +600,7 @@ Weiss	NNP	Weiss np1 NUPOS
 )	)	) ) NUPOS
 :	:	: : NUPOS
 SoxR	TF	SoxR TF TermTag
-protein	FWDOM	protein FWDOM FreqTag
+protein	FWRP	protein FWRP FreqTag
 is	VBZ	be vbz NUPOS
 activated	FWRP	activate FWRP FreqTag
 by	IN	by IN PennPOS
@@ -613,7 +613,7 @@ strong	JJ	strong JJ PennPOS
 activator	FWRP	activator FWRP FreqTag
 of	IN	of pp-f NUPOS
 soxS	NN	soxS NN PennPOS
-transcription	PRO	transcription PRO TermTag
+transcription	FWRP	transcription FWRP FreqTag
 ;	:	; : NUPOS
 increased	VBN	increase VBN PennPOS
 SoxS	TF	SoxS TF TermTag
@@ -628,7 +628,7 @@ via	IN	via IN PennPOS
 ~	FW	~ FW PennPOS
 7o	FW	7o FW PennPOS
 RNA	NN	rna NN PennPOS
-polymerase	FWDOM	polymerase FWDOM FreqTag
+polymerase	FWRP	polymerase FWRP FreqTag
 (	(	( ( NUPOS
 Fig.	NN	fig. n1 NUPOS
 1	CD	1 crd NUPOS
@@ -645,8 +645,8 @@ the	DT	the dt NUPOS
 mechanism	NN	mechanism NN PennPOS
 of	IN	of pp-f NUPOS
 these	DT	these d NUPOS
-two	FWDOM	two FWDOM FreqTag
-transcriptional	FWDOM	transcriptional FWDOM FreqTag
+two	FWRP	two FWRP FreqTag
+transcriptional	FWRP	transcriptional FWRP FreqTag
 stages	NNS	stage NNS PennPOS
 ,	,	, , NUPOS
 and	CC	and cc NUPOS
@@ -684,20 +684,20 @@ of	IN	of pp-f NUPOS
 antibiotic-resistance	JJ	antibiotic-resistance JJ PennPOS
 activators	NNS	activator NNS PennPOS
 SoxS	TF	SoxS TF TermTag
-protein	FWDOM	protein FWDOM FreqTag
+protein	FWRP	protein FWRP FreqTag
 was	VBD	be vbd NUPOS
 purified	VBN	purify VBN PennPOS
 to	TO	to p-acp NUPOS
 reveal	VB	reveal VBP PennPOS
 a	DT	a dt NUPOS
-protein	FWDOM	protein FWDOM FreqTag
+protein	FWRP	protein FWRP FreqTag
 with	IN	with pp NUPOS
 high-affinity	JJ	high-affinity JJ PennPOS
-binding	FWDOM	binding FWDOM FreqTag
+binding	FWRP	binding FWRP FreqTag
 (	(	( ( NUPOS
 50	CD	50 CD PennPOS
 %	NN	% NN PennPOS
-binding	FWDOM	binding FWDOM FreqTag
+binding	FWRP	binding FWRP FreqTag
 at	IN	at pp NUPOS
 10	CD	10 crd NUPOS
 -	:	- : NUPOS
@@ -791,7 +791,7 @@ ompF	NN	ompF NN PennPOS
 mRNA	NN	mRNA NN PennPOS
 Block	NNP	block NN PennPOS
 OmpF	NN	OmpF NN PennPOS
-synthesis	PRO	synthesis PRO TermTag
+synthesis	FWRP	synthesis FWRP FreqTag
 acrAB	NN	acrAB NN PennPOS
 AcrA	NN	Acra np1 NUPOS
 and	CC	and cc NUPOS
@@ -900,7 +900,7 @@ Fig.	NN	fig. n1 NUPOS
 .	.	. . NUPOS
 
 Two-stage	JJ	two-stage JJ PennPOS
-transcriptional	FWDOM	transcriptional FWDOM FreqTag
+transcriptional	FWRP	transcriptional FWRP FreqTag
 induction	NN	induction NN PennPOS
 in	IN	in IN PennPOS
 the	DT	the dt NUPOS
@@ -910,7 +910,7 @@ regulon	FWRP	regulon FWRP FreqTag
 
 Existing	VBG	exist VBG PennPOS
 SoxR	TF	SoxR TF TermTag
-protein	FWDOM	protein FWDOM FreqTag
+protein	FWRP	protein FWRP FreqTag
 is	VBZ	be vbz NUPOS
 activated	FWRP	activate FWRP FreqTag
 by	IN	by IN PennPOS
@@ -930,7 +930,7 @@ oxide	NN	oxide NN PennPOS
 Activated	VBN	activate VBN PennPOS
 SoxR	TF	SoxR TF TermTag
 stimulates	VBZ	stimulate VBZ PennPOS
-transcription	PRO	transcription PRO TermTag
+transcription	FWRP	transcription FWRP FreqTag
 at	IN	at pp NUPOS
 the	DT	the dt NUPOS
 soxS	NN	soxS NN PennPOS
@@ -942,7 +942,7 @@ increased	VBN	increase VBN PennPOS
 levels	NNS	level NNS PennPOS
 of	IN	of pp-f NUPOS
 SoxS	TF	SoxS TF TermTag
-protein	FWDOM	protein FWDOM FreqTag
+protein	FWRP	protein FWRP FreqTag
 activate	FWRP	activate FWRP FreqTag
 the	DT	the dt NUPOS
 regulon	FWRP	regulon FWRP FreqTag
@@ -952,7 +952,7 @@ genes	FWRP	gene FWRP FreqTag
 Note	VB	note VBP PennPOS
 that	DT	that d NUPOS
 SoxS	TF	SoxS TF TermTag
-also	FWDOM	also FWDOM FreqTag
+also	FWRP	also FWRP FreqTag
 negatively	FWRP	negative FWRP FreqTag
 autoregulates	VBZ	autoregulate VBZ PennPOS
 its	PRP$	its po31 NUPOS
@@ -1033,11 +1033,11 @@ Demple	NNP	Demple NNP PennPOS
 .	.	. . NUPOS
 
 SoxS	TF	SoxS TF TermTag
-binding	FWDOM	binding FWDOM FreqTag
+binding	FWRP	binding FWRP FreqTag
 stabilizes	VBZ	stabilise VBZ PennPOS
 the	DT	the dt NUPOS
 subsequent	JJ	subsequent JJ PennPOS
-binding	FWDOM	binding FWDOM FreqTag
+binding	FWRP	binding FWRP FreqTag
 of	IN	of pp-f NUPOS
 E.	FW	E. FW PennPOS
 coli	FWRP	coli FWRP FreqTag
@@ -1045,7 +1045,7 @@ cy	NN	cy NN PennPOS
 v	LS	v LS PennPOS
 °	CD	° CD PennPOS
 RNA	NN	rna NN PennPOS
-polymerase	FWDOM	polymerase FWDOM FreqTag
+polymerase	FWRP	polymerase FWRP FreqTag
 by	IN	by IN PennPOS
 10	CD	10 crd NUPOS
 -	:	- : NUPOS
@@ -1153,7 +1153,7 @@ but	CC	but cc-acp NUPOS
 more	RBR	much RBR PennPOS
 closely	RB	close av-j NUPOS
 related	FWRP	related FWRP FreqTag
-proteins	FWDOM	protein FWDOM FreqTag
+proteins	FWRP	protein FWRP FreqTag
 have	VBP	have vhb NUPOS
 been	VBN	be vbn NUPOS
 discovered	VBN	discover vvn NUPOS
@@ -1169,7 +1169,7 @@ include	VBP	include VBP PennPOS
 the	DT	the dt NUPOS
 13-kDa	JJ	13-kda JJ PennPOS
 MarA	TF	mara TF TermTag
-protein	FWDOM	protein FWDOM FreqTag
+protein	FWRP	protein FWRP FreqTag
 (	(	( ( NUPOS
 Cohen	NNP	Cohen np1 NUPOS
 et	FW	et fw-fr NUPOS
@@ -1197,7 +1197,7 @@ and	CC	and cc NUPOS
 the	DT	the dt NUPOS
 33-kDa	JJ	33-kda JJ PennPOS
 Rob	TF	rob TF TermTag
-protein	FWDOM	protein FWDOM FreqTag
+protein	FWRP	protein FWRP FreqTag
 ,	,	, , NUPOS
 with	IN	with pp NUPOS
 an	DT	a dt NUPOS
@@ -1223,7 +1223,7 @@ was	VBD	be vbd NUPOS
 identified	VBN	identify VBN PennPOS
 by	IN	by IN PennPOS
 its	PRP$	its po31 NUPOS
-binding	FWDOM	binding FWDOM FreqTag
+binding	FWRP	binding FWRP FreqTag
 to	TO	to p-acp NUPOS
 the	DT	the dt NUPOS
 right	JJ	right JJ PennPOS
@@ -1261,7 +1261,7 @@ regulatory	JJ	regulatory JJ PennPOS
 overlap	VBP	overlap VBP PennPOS
 among	IN	among IN PennPOS
 these	DT	these d NUPOS
-proteins	FWDOM	protein FWDOM FreqTag
+proteins	FWRP	protein FWRP FreqTag
 .	.	. . NUPOS
 
 Expression	NN	expression NN PennPOS
@@ -1300,7 +1300,7 @@ al.	FW	al. FW PennPOS
 
 Purified	VBN	purify VBN PennPOS
 Rob	TF	rob TF TermTag
-protein	FWDOM	protein FWDOM FreqTag
+protein	FWRP	protein FWRP FreqTag
 bound	VBD	bind VBD PennPOS
 in	FW	in fw-la NUPOS
 vitro	FW	vitro FW PennPOS
@@ -1346,7 +1346,7 @@ Rob	TF	rob TF TermTag
 in	FW	in fw-la NUPOS
 vivo	FW	vivo fw-la NUPOS
 were	VBD	be vbd NUPOS
-also	FWDOM	also FWDOM FreqTag
+also	FWRP	also FWRP FreqTag
 mediated	VBN	mediate VBN PennPOS
 by	IN	by IN PennPOS
 expression	FWRP	expression FWRP FreqTag
@@ -1411,13 +1411,13 @@ or	CC	or cc NUPOS
 a	DT	a dt NUPOS
 latent	JJ	latent JJ PennPOS
 transciptional	JJ	transciptional JJ PennPOS
-activity	FWDOM	activity FWDOM FreqTag
+activity	FWRP	activity FWRP FreqTag
 in	IN	in IN PennPOS
 pre	JJ	pre JJ PennPOS
 -	:	- : NUPOS
 existing	VBG	exist VBG PennPOS
 Rob	TF	rob TF TermTag
-protein	FWDOM	protein FWDOM FreqTag
+protein	FWRP	protein FWRP FreqTag
 remain	VBP	remain VBP PennPOS
 unknown	JJ	unknown JJ PennPOS
 .	.	. . NUPOS
@@ -1429,7 +1429,7 @@ Physiology	NNP	physiology NN PennPOS
 of	IN	of pp-f NUPOS
 soxRS	NNP	soxRS NNP PennPOS
 :	:	: : NUPOS
-activation	FWDOM	activation FWDOM FreqTag
+activation	FWRP	activation FWRP FreqTag
 of	IN	of pp-f NUPOS
 resistance	FWRP	resistance FWRP FreqTag
 to	TO	to p-acp NUPOS
@@ -1601,7 +1601,7 @@ SoxS	TF	SoxS TF TermTag
 -	:	- : NUPOS
 and	CC	and cc NUPOS
 Rob-related	JJ	rob-related JJ PennPOS
-proteins	FWDOM	protein FWDOM FreqTag
+proteins	FWRP	protein FWRP FreqTag
 .	.	. . NUPOS
 
 The	DT	the dt NUPOS
@@ -1638,13 +1638,13 @@ areas	NNS	area NNS PennPOS
 show	VBP	show VBP PennPOS
 a	DT	a dt NUPOS
 common	JJ	common JJ PennPOS
-region	FWDOM	region FWDOM FreqTag
+region	FWRP	region FWRP FreqTag
 among	IN	among IN PennPOS
 Rob	TF	rob TF TermTag
 and	CC	and cc NUPOS
-two	FWDOM	two FWDOM FreqTag
+two	FWRP	two FWRP FreqTag
 other	JJ	other JJ PennPOS
-proteins	FWDOM	protein FWDOM FreqTag
+proteins	FWRP	protein FWRP FreqTag
 which	WDT	which r-crq NUPOS
 is	VBZ	be vbz NUPOS
 not	RB	not xx NUPOS
@@ -1652,7 +1652,7 @@ shared	VBN	share VBN PennPOS
 with	IN	with pp NUPOS
 the	DT	the dt NUPOS
 other	JJ	other JJ PennPOS
-proteins	FWDOM	protein FWDOM FreqTag
+proteins	FWRP	protein FWRP FreqTag
 .	.	. . NUPOS
 
 The	DT	the dt NUPOS
@@ -1660,7 +1660,7 @@ vertical	JJ	vertical JJ PennPOS
 arrow	NN	arrow NN PennPOS
 indicates	VBZ	indicate VBZ PennPOS
 the	DT	the dt NUPOS
-site	FWDOM	site FWDOM FreqTag
+site	FWRP	site FWRP FreqTag
 of	IN	of pp-f NUPOS
 truncation	NN	truncation NN PennPOS
 used	VBN	use VBN PennPOS
@@ -1686,7 +1686,7 @@ motif	FWDOM	motif FWDOM FreqTag
 .	.	. . NUPOS
 
 The	DT	the dt NUPOS
-proteins	FWDOM	protein FWDOM FreqTag
+proteins	FWRP	protein FWRP FreqTag
 (	(	( ( NUPOS
 SoxS	TF	SoxS TF TermTag
 ,	,	, , NUPOS
@@ -1872,13 +1872,13 @@ investigated	VBD	investigate VBD PennPOS
 this	DT	this d NUPOS
 point	NN	point NN PennPOS
 in	IN	in IN PennPOS
-two	FWDOM	two FWDOM FreqTag
+two	FWRP	two FWRP FreqTag
 ways	NNS	way n2 NUPOS
 :	:	: : NUPOS
 by	IN	by IN PennPOS
 testing	NN	testing NN PennPOS
 soxRS	NN	soxRS NN PennPOS
-activation	FWDOM	activation FWDOM FreqTag
+activation	FWRP	activation FWRP FreqTag
 by	IN	by IN PennPOS
 chronic	JJ	chronic JJ PennPOS
 NO	NN	no NN PennPOS
@@ -1959,7 +1959,7 @@ NO	NN	no NN PennPOS
 .	.	. . NUPOS
 
 The	DT	the dt NUPOS
-activation	FWDOM	activation FWDOM FreqTag
+activation	FWRP	activation FWRP FreqTag
 of	IN	of pp-f NUPOS
 the	DT	the dt NUPOS
 same	JJ	same JJ PennPOS
@@ -2053,11 +2053,11 @@ that	WDT	that WDT PennPOS
 blocks	VBZ	block VBZ PennPOS
 NO	NN	no NN PennPOS
 ''	''	'' '' NONE
-synthesis	PRO	synthesis PRO TermTag
-also	FWDOM	also FWDOM FreqTag
+synthesis	FWRP	synthesis FWRP FreqTag
+also	FWRP	also FWRP FreqTag
 prevented	VBD	prevent VBD PennPOS
 soxS	NN	soxS NN PennPOS
-activation	FWDOM	activation FWDOM FreqTag
+activation	FWRP	activation FWRP FreqTag
 .	.	. . NUPOS
 
 Consequently	RB	consequent av-j NUPOS
@@ -2089,7 +2089,7 @@ seen	VBN	see VBN PennPOS
 whether	IN	whether cs NUPOS
 such	PDT	such PDT PennPOS
 a	DT	a dt NUPOS
-function	FWDOM	function FWDOM FreqTag
+function	FWRP	function FWRP FreqTag
 is	VBZ	be vbz NUPOS
 widespread	JJ	widespread JJ PennPOS
 among	IN	among IN PennPOS
@@ -2147,7 +2147,7 @@ transcription-activation	MF	transcription-activation MF TermTag
 by	IN	by IN PennPOS
 an	DT	a dt NUPOS
 FeS	NN	FES NN PennPOS
-protein	FWDOM	protein FWDOM FreqTag
+protein	FWRP	protein FWRP FreqTag
 Genetic	JJ	genetic JJ PennPOS
 studies	NNS	study NNS PennPOS
 have	VBP	have vhb NUPOS
@@ -2157,14 +2157,14 @@ soxR	NN	soxR NN PennPOS
 is	VBZ	be vbz NUPOS
 the	DT	the dt NUPOS
 master	NN	master NN PennPOS
-regulator	FWDOM	regulator FWDOM FreqTag
+regulator	FWRP	regulator FWRP FreqTag
 of	IN	of pp-f NUPOS
 the	DT	the dt NUPOS
 soxRS	NN	soxRS NN PennPOS
 regulon	FWRP	regulon FWRP FreqTag
 by	IN	by IN PennPOS
 governing	VBG	govern VBG PennPOS
-activation	FWDOM	activation FWDOM FreqTag
+activation	FWRP	activation FWRP FreqTag
 of	IN	of pp-f NUPOS
 the	DT	the dt NUPOS
 soxS	NN	soxS NN PennPOS
@@ -2190,7 +2190,7 @@ role	FWRP	role FWRP FreqTag
 of	IN	of pp-f NUPOS
 the	DT	the dt NUPOS
 SoxR	TF	SoxR TF TermTag
-protein	FWDOM	protein FWDOM FreqTag
+protein	FWRP	protein FWRP FreqTag
 in	IN	in IN PennPOS
 this	DT	this d NUPOS
 process	NN	process NN PennPOS
@@ -2211,7 +2211,7 @@ its	PRP$	its po31 NUPOS
 specific	JJ	specific JJ PennPOS
 and	CC	and cc NUPOS
 high-affinity	JJ	high-affinity JJ PennPOS
-binding	FWDOM	binding FWDOM FreqTag
+binding	FWRP	binding FWRP FreqTag
 (	(	( ( NUPOS
 K	NN	k NN PennPOS
 d	NN	d NN PennPOS
@@ -2244,7 +2244,7 @@ could	MD	can vmd NUPOS
 be	VB	be vbi NUPOS
 obtained	VBN	obtain VBN PennPOS
 in	IN	in IN PennPOS
-two	FWDOM	two FWDOM FreqTag
+two	FWRP	two FWRP FreqTag
 forms	FWDOM	form FWDOM FreqTag
 ,	,	, , NUPOS
 dependent	JJ	dependent JJ PennPOS
@@ -2270,7 +2270,7 @@ oxidation	NN	oxidation NN PennPOS
 state	NN	state NN PennPOS
 of	IN	of pp-f NUPOS
 the	DT	the dt NUPOS
-protein	FWDOM	protein FWDOM FreqTag
+protein	FWRP	protein FWRP FreqTag
 )	)	) ) NUPOS
 :	:	: : NUPOS
 SoxR	TF	SoxR TF TermTag
@@ -2290,7 +2290,7 @@ per	IN	per IN PennPOS
 monomer	FWDOM	monomer FWDOM FreqTag
 ,	,	, , NUPOS
 while	IN	while cs NUPOS
-protein	FWDOM	protein FWDOM FreqTag
+protein	FWRP	protein FWRP FreqTag
 isolated	VBN	isolate VBN PennPOS
 in	IN	in IN PennPOS
 buffers	NNS	buffer NNS PennPOS
@@ -2333,7 +2333,7 @@ slightly	RB	slight av-j NUPOS
 stabilizing	VBG	stabilise VBG PennPOS
 the	DT	the dt NUPOS
 subsequent	JJ	subsequent JJ PennPOS
-binding	FWDOM	binding FWDOM FreqTag
+binding	FWRP	binding FWRP FreqTag
 of	IN	of pp-f NUPOS
 E.	FW	E. FW PennPOS
 coli	FWRP	coli FWRP FreqTag
@@ -2341,7 +2341,7 @@ cy	NN	cy NN PennPOS
 7	CD	7 crd NUPOS
 °	NN	° NN PennPOS
 RNA	NN	rna NN PennPOS
-polymerase	FWDOM	polymerase FWDOM FreqTag
+polymerase	FWRP	polymerase FWRP FreqTag
 (	(	( ( NUPOS
 Hidalgo	NNP	Hidalgo np1 NUPOS
 and	CC	and cc NUPOS
@@ -2396,7 +2396,7 @@ assay	NN	assay NN PennPOS
 for	IN	for c-acp NUPOS
 full-length	JJ	full-length JJ PennPOS
 soxS	NN	soxS NN PennPOS
-transcription	PRO	transcription PRO TermTag
+transcription	FWRP	transcription FWRP FreqTag
 from	IN	from pp NUPOS
 a	DT	a dt NUPOS
 plasmid	NN	plasmid NN PennPOS
@@ -2427,17 +2427,17 @@ These	DT	these d NUPOS
 studies	NNS	study NNS PennPOS
 revealed	VBD	reveal VBD PennPOS
 potent	JJ	potent JJ PennPOS
-activity	FWDOM	activity FWDOM FreqTag
+activity	FWRP	activity FWRP FreqTag
 of	IN	of pp-f NUPOS
 Fe-SoxR	NN	Fe-SoxR NN PennPOS
 specific	JJ	specific JJ PennPOS
 for	IN	for c-acp NUPOS
 soxS	NN	soxS NN PennPOS
-transcription	PRO	transcription PRO TermTag
+transcription	FWRP	transcription FWRP FreqTag
 ,	,	, , NUPOS
 while	IN	while cs NUPOS
 the	DT	the dt NUPOS
-activity	FWDOM	activity FWDOM FreqTag
+activity	FWRP	activity FWRP FreqTag
 of	IN	of pp-f NUPOS
 apo-SoxR	NN	apo-SoxR NN PennPOS
 was	VBD	be vbd NUPOS
@@ -2478,15 +2478,15 @@ Fe-SoxR	NN	Fe-SoxR NN PennPOS
 specifically	RB	specific av-j NUPOS
 stimulates	VBZ	stimulate VBZ PennPOS
 open	FWDOM	open FWDOM FreqTag
-complex	FWDOM	complex FWDOM FreqTag
-formation	PRO	formation PRO TermTag
+complex	FWRP	complex FWRP FreqTag
+formation	FWRP	formation FWRP FreqTag
 ,	,	, , NUPOS
 with	IN	with pp NUPOS
 the	DT	the dt NUPOS
 some	DT	some d NUPOS
 indication	NN	indication NN PennPOS
 that	WDT	that WDT PennPOS
-protein	FWDOM	protein FWDOM FreqTag
+protein	FWRP	protein FWRP FreqTag
 distorts	VBZ	distort VBZ PennPOS
 the	DT	the dt NUPOS
 local	JJ	local JJ PennPOS
@@ -2496,7 +2496,7 @@ in	IN	in IN PennPOS
 partnership	NN	partnership NN PennPOS
 with	IN	with pp NUPOS
 RNA	NN	rna NN PennPOS
-polymerase	FWDOM	polymerase FWDOM FreqTag
+polymerase	FWRP	polymerase FWRP FreqTag
 (	(	( ( NUPOS
 Hidalgo	NNP	Hidalgo np1 NUPOS
 et	FW	et fw-fr NUPOS
@@ -2540,7 +2540,7 @@ Demple	NNP	Demple NNP PennPOS
 )	)	) ) NUPOS
 to	TO	to p-acp NUPOS
 activate	FWRP	activate FWRP FreqTag
-transcription	PRO	transcription PRO TermTag
+transcription	FWRP	transcription FWRP FreqTag
 ,	,	, , NUPOS
 as	IN	as c-acp NUPOS
 has	VBZ	have vdz NUPOS
@@ -2550,7 +2550,7 @@ for	IN	for c-acp NUPOS
 the	DT	the dt NUPOS
 homologous	FWDOM	homologous FWDOM FreqTag
 MerR	NN	MERR NN PennPOS
-protein	FWDOM	protein FWDOM FreqTag
+protein	FWRP	protein FWRP FreqTag
 (	(	( ( NUPOS
 Ansari	NNP	Ansari NNP PennPOS
 et	FW	et fw-fr NUPOS
@@ -2656,7 +2656,7 @@ al.	FW	al. FW PennPOS
 there	EX	there pc-acp NUPOS
 must	MD	must vmb NUPOS
 be	VB	be vbi NUPOS
-two	FWDOM	two FWDOM FreqTag
+two	FWRP	two FWRP FreqTag
 [	(	[ ( NUPOS
 2Fe-2S	NN	2Fe-2S NN PennPOS
 ]	)	] ) NUPOS
@@ -2679,7 +2679,7 @@ one	FWDOM	one FWDOM FreqTag
 per	IN	per IN PennPOS
 subunit	FWRP	subunit FWRP FreqTag
 or	CC	or cc NUPOS
-two	FWDOM	two FWDOM FreqTag
+two	FWRP	two FWRP FreqTag
 shared	VBN	share VBN PennPOS
 between	IN	between IN PennPOS
 the	DT	the dt NUPOS
@@ -2772,13 +2772,13 @@ the	DT	the dt NUPOS
 tran	NN	Tran np1 NUPOS
 -	:	- : NUPOS
 scriptional	JJ	scriptional JJ PennPOS
-activity	FWDOM	activity FWDOM FreqTag
+activity	FWRP	activity FWRP FreqTag
 of	IN	of pp-f NUPOS
 SoxR	TF	SoxR TF TermTag
 .	.	. . NUPOS
 
 The	DT	the dt NUPOS
-protein	FWDOM	protein FWDOM FreqTag
+protein	FWRP	protein FWRP FreqTag
 with	IN	with pp NUPOS
 oxidized	VBN	oxidize VBN PennPOS
 (	(	( ( NUPOS
@@ -2796,7 +2796,7 @@ the	DT	the dt NUPOS
 active	JJ	active JJ PennPOS
 form	NN	form NN PennPOS
 in	IN	in IN PennPOS
-transcription	PRO	transcription PRO TermTag
+transcription	FWRP	transcription FWRP FreqTag
 studies	NNS	study NNS PennPOS
 cited	VBD	cite vvd NUPOS
 above	RB	above a-acp NUPOS
@@ -2825,8 +2825,8 @@ centers	VBZ	center VBZ PennPOS
 does	VBZ	do vdz NUPOS
 not	RB	not xx NUPOS
 block	VB	block VBP PennPOS
-transcription	PRO	transcription PRO TermTag
-activation	FWDOM	activation FWDOM FreqTag
+transcription	FWRP	transcription FWRP FreqTag
+activation	FWRP	activation FWRP FreqTag
 by	IN	by IN PennPOS
 Fe-SoxR	NN	Fe-SoxR NN PennPOS
 .	.	. . NUPOS
@@ -2837,7 +2837,7 @@ possibility	NN	possibility NN PennPOS
 is	VBZ	be vbz NUPOS
 that	IN	that cst NUPOS
 SoxR	TF	SoxR TF TermTag
-activity	FWDOM	activity FWDOM FreqTag
+activity	FWRP	activity FWRP FreqTag
 is	VBZ	be vbz NUPOS
 regulated	VBN	regulate VBN PennPOS
 by	IN	by IN PennPOS
@@ -2947,7 +2947,7 @@ of	IN	of pp-f NUPOS
 Azotobacter	NN	Azotobacter NN PennPOS
 vinlandii	NN	vinlandii NN PennPOS
 NifS	NN	NifS NN PennPOS
-protein	FWDOM	protein FWDOM FreqTag
+protein	FWRP	protein FWRP FreqTag
 (	(	( ( NUPOS
 a	DT	a dt NUPOS
 generous	JJ	generous JJ PennPOS
@@ -2995,7 +2995,7 @@ from	IN	from pp NUPOS
 the	DT	the dt NUPOS
 apo	NN	apo NN PennPOS
 -	:	- : NUPOS
-protein	FWDOM	protein FWDOM FreqTag
+protein	FWRP	protein FWRP FreqTag
 ,	,	, , NUPOS
 which	WDT	which r-crq NUPOS
 demonstrates	VBZ	demonstrate VBZ PennPOS
@@ -3010,8 +3010,8 @@ the	DT	the dt NUPOS
 ]	)	] ) NUPOS
 clusters	NNS	cluster NNS PennPOS
 prevents	VBZ	prevent VBZ PennPOS
-transcriptional	FWDOM	transcriptional FWDOM FreqTag
-activation	FWDOM	activation FWDOM FreqTag
+transcriptional	FWRP	transcriptional FWRP FreqTag
+activation	FWRP	activation FWRP FreqTag
 by	IN	by IN PennPOS
 apo-SoxR	NN	apo-SoxR NN PennPOS
 (	(	( ( NUPOS
@@ -3051,7 +3051,7 @@ mutant	JJ	mutant JJ PennPOS
 forms	FWDOM	form FWDOM FreqTag
 of	IN	of pp-f NUPOS
 the	DT	the dt NUPOS
-protein	FWDOM	protein FWDOM FreqTag
+protein	FWRP	protein FWRP FreqTag
 .	.	. . NUPOS
 
 Site-specific	JJ	site-specific JJ PennPOS
@@ -3124,13 +3124,13 @@ Cys	NN	Cys NN PennPOS
 Ala	NN	ala NN PennPOS
 mutant	JJ	mutant JJ PennPOS
 SoxR	TF	SoxR TF TermTag
-proteins	FWDOM	protein FWDOM FreqTag
+proteins	FWRP	protein FWRP FreqTag
 failed	VBD	fail VBD PennPOS
 to	TO	to p-acp NUPOS
 activate	FWRP	activate FWRP FreqTag
 in	FW	in fw-la NUPOS
 vitro	FW	vitro FW PennPOS
-transcription	PRO	transcription PRO TermTag
+transcription	FWRP	transcription FWRP FreqTag
 and	CC	and cc NUPOS
 did	VBD	do vdd NUPOS
 not	RB	not xx NUPOS
@@ -3151,7 +3151,7 @@ interpretation	NN	interpretation NN PennPOS
 is	VBZ	be vbz NUPOS
 that	IN	that cst NUPOS
 the	DT	the dt NUPOS
-activity	FWDOM	activity FWDOM FreqTag
+activity	FWRP	activity FWRP FreqTag
 of	IN	of pp-f NUPOS
 SoxR	TF	SoxR TF TermTag
 is	VBZ	be vbz NUPOS
@@ -3207,7 +3207,7 @@ that	IN	that cst NUPOS
 the	DT	the dt NUPOS
 in	FW	in fw-la NUPOS
 vivo	FW	vivo fw-la NUPOS
-activity	FWDOM	activity FWDOM FreqTag
+activity	FWRP	activity FWRP FreqTag
 of	IN	of pp-f NUPOS
 SoxR	TF	SoxR TF TermTag
 could	MD	can vmd NUPOS
@@ -3254,7 +3254,7 @@ to	TO	to p-acp NUPOS
 the	DT	the dt NUPOS
 destruction	NN	destruction NN PennPOS
 of	IN	of pp-f NUPOS
-protein	FWDOM	protein FWDOM FreqTag
+protein	FWRP	protein FWRP FreqTag
 [	(	[ ( NUPOS
 4Fe-4S	NN	4Fe-4S NN PennPOS
 ]	)	] ) NUPOS
@@ -3316,10 +3316,10 @@ which	WDT	which r-crq NUPOS
 should	MD	shall vmd NUPOS
 activate	FWRP	activate FWRP FreqTag
 the	DT	the dt NUPOS
-protein	FWDOM	protein FWDOM FreqTag
+protein	FWRP	protein FWRP FreqTag
 as	IN	as c-acp NUPOS
 a	DT	a dt NUPOS
-transcription	PRO	transcription PRO TermTag
+transcription	FWRP	transcription FWRP FreqTag
 factor	FWDOM	factor FWDOM FreqTag
 .	.	. . NUPOS
 
@@ -3339,10 +3339,10 @@ its	PRP$	its po31 NUPOS
 demonstrated	VBN	demonstrate VBN PennPOS
 ability	NN	ability NN PennPOS
 to	TO	to p-acp NUPOS
-function	FWDOM	function FWDOM FreqTag
+function	FWRP	function FWRP FreqTag
 in	IN	in IN PennPOS
 the	DT	the dt NUPOS
-presence	FWDOM	presence FWDOM FreqTag
+presence	FWRP	presence FWRP FreqTag
 of	IN	of pp-f NUPOS
 free	JJ	free JJ PennPOS
 radicals	NNS	radical NNS PennPOS
@@ -3350,7 +3350,7 @@ that	WDT	that WDT PennPOS
 inactivate	VBP	inactivate VBP PennPOS
 other	JJ	other JJ PennPOS
 FeS	NN	FES NN PennPOS
-proteins	FWDOM	protein FWDOM FreqTag
+proteins	FWRP	protein FWRP FreqTag
 :	:	: : NUPOS
 Fe-SoxR	NN	Fe-SoxR NN PennPOS
 is	VBZ	be vbz NUPOS
@@ -3370,7 +3370,7 @@ Demple	NNP	Demple NNP PennPOS
 ,	,	, , NUPOS
 unlike	IN	unlike IN PennPOS
 many	FWRP	many FWRP FreqTag
-proteins	FWDOM	protein FWDOM FreqTag
+proteins	FWRP	protein FWRP FreqTag
 with	IN	with pp NUPOS
 [	(	[ ( NUPOS
 4Fe-4S	NN	4Fe-4S NN PennPOS
@@ -3384,7 +3384,7 @@ other	JJ	other JJ PennPOS
 [	(	[ ( NUPOS
 2Fe-2S	JJ	2fe-2s JJ PennPOS
 ]	)	] ) NUPOS
-proteins	FWDOM	protein FWDOM FreqTag
+proteins	FWRP	protein FWRP FreqTag
 (	(	( ( NUPOS
 Flint	NNP	flint NN PennPOS
 et	FW	et fw-fr NUPOS
@@ -3398,7 +3398,7 @@ The	DT	the dt NUPOS
 hypothesis	NN	hypothesis NN PennPOS
 that	IN	that cst NUPOS
 SoxR	TF	SoxR TF TermTag
-activation	FWDOM	activation FWDOM FreqTag
+activation	FWRP	activation FWRP FreqTag
 might	MD	may vmd NUPOS
 be	VB	be vbi NUPOS
 linked	VBN	link VBN PennPOS
@@ -3467,7 +3467,7 @@ certainly	RB	certain av-j NUPOS
 assembled	VBN	assemble VBN PennPOS
 into	IN	into pp NUPOS
 other	JJ	other JJ PennPOS
-proteins	FWDOM	protein FWDOM FreqTag
+proteins	FWRP	protein FWRP FreqTag
 ?	.	? . NUPOS
 
 How	WRB	how c-crq NUPOS
@@ -3490,7 +3490,7 @@ FeS	NN	FES NN PennPOS
 assembly	NN	assembly NN PennPOS
 or	CC	or cc NUPOS
 disassembly	NN	disassembly NN PennPOS
-protein	FWDOM	protein FWDOM FreqTag
+protein	FWRP	protein FWRP FreqTag
 for	IN	for c-acp NUPOS
 SoxR	TF	SoxR TF TermTag
 ?	.	? . NUPOS
@@ -3502,7 +3502,7 @@ Fe	NNP	fe NN PennPOS
 availability	NN	availability NN PennPOS
 block	NN	block NN PennPOS
 SoxR	TF	SoxR TF TermTag
-activation	FWDOM	activation FWDOM FreqTag
+activation	FWRP	activation FWRP FreqTag
 ?	.	? . NUPOS
 
 Such	JJ	such JJ PennPOS
@@ -3525,12 +3525,12 @@ the	DT	the dt NUPOS
 sensing	VBG	sense VBG PennPOS
 and	CC	and cc NUPOS
 gene	FWRP	gene FWRP FreqTag
-activation	FWDOM	activation FWDOM FreqTag
+activation	FWRP	activation FWRP FreqTag
 mechanism	NN	mechanism NN PennPOS
 of	IN	of pp-f NUPOS
 this	DT	this d NUPOS
 fascinating	JJ	fascinating JJ PennPOS
-protein	FWDOM	protein FWDOM FreqTag
+protein	FWRP	protein FWRP FreqTag
 .	.	. . NUPOS
 
 2.4	CD	2.4 CD PennPOS
@@ -3571,7 +3571,7 @@ them	PRP	they pno32 NUPOS
 The	DT	the dt NUPOS
 arrangement	NN	arrangement NN PennPOS
 of	IN	of pp-f NUPOS
-two	FWDOM	two FWDOM FreqTag
+two	FWRP	two FWRP FreqTag
 stages	NNS	stage NNS PennPOS
 of	IN	of pp-f NUPOS
 transcription-activation	MF	transcription-activation MF TermTag
@@ -3590,7 +3590,7 @@ the	DT	the dt NUPOS
 unconventional	JJ	unconventional JJ PennPOS
 SoxR	TF	SoxR TF TermTag
 gene	FWRP	gene FWRP FreqTag
-activation	FWDOM	activation FWDOM FreqTag
+activation	FWRP	activation FWRP FreqTag
 mechanism	NN	mechanism NN PennPOS
 to	TO	to p-acp NUPOS
 the	DT	the dt NUPOS
@@ -3610,7 +3610,7 @@ Such	PDT	such PDT PennPOS
 an	DT	a dt NUPOS
 arrangement	NN	arrangement NN PennPOS
 may	MD	may vmb NUPOS
-also	FWDOM	also FWDOM FreqTag
+also	FWRP	also FWRP FreqTag
 be	VB	be vbi NUPOS
 more	RBR	much RBR PennPOS
 amenable	JJ	amenable JJ PennPOS
@@ -3635,7 +3635,7 @@ studies	NNS	study NNS PennPOS
 of	IN	of pp-f NUPOS
 soxRS	NN	soxRS NN PennPOS
 have	VBP	have vhb NUPOS
-also	FWDOM	also FWDOM FreqTag
+also	FWRP	also FWRP FreqTag
 revealed	VBN	reveal VBN PennPOS
 some	DT	some d NUPOS
 features	NNS	feature NNS PennPOS
@@ -3682,8 +3682,8 @@ MarA	TF	mara TF TermTag
 suggests	VBZ	suggest VBZ PennPOS
 that	IN	that cst NUPOS
 these	DT	these d NUPOS
-two	FWDOM	two FWDOM FreqTag
-proteins	FWDOM	protein FWDOM FreqTag
+two	FWRP	two FWRP FreqTag
+proteins	FWRP	protein FWRP FreqTag
 operate	VBP	operate VBP PennPOS
 by	IN	by IN PennPOS
 a	DT	a dt NUPOS
@@ -3704,7 +3704,7 @@ studies	NNS	study NNS PennPOS
 with	IN	with pp NUPOS
 the	DT	the dt NUPOS
 SoxS	TF	SoxS TF TermTag
-protein	FWDOM	protein FWDOM FreqTag
+protein	FWRP	protein FWRP FreqTag
 provide	VBP	provide VBP PennPOS
 a	DT	a dt NUPOS
 clear	JJ	clear JJ PennPOS
@@ -3717,7 +3717,7 @@ MarA	TF	mara TF TermTag
 .	.	. . NUPOS
 
 The	DT	the dt NUPOS
-activation	FWDOM	activation FWDOM FreqTag
+activation	FWRP	activation FWRP FreqTag
 of	IN	of pp-f NUPOS
 soxRS	NN	soxRS NN PennPOS
 by	IN	by IN PennPOS
@@ -3876,7 +3876,7 @@ of	IN	of pp-f NUPOS
 Escherichia	FW	Escherichia FW PennPOS
 coli	FWRP	coli FWRP FreqTag
 :	:	: : NUPOS
-two	FWDOM	two FWDOM FreqTag
+two	FWRP	two FWRP FreqTag
 genes	FWRP	gene FWRP FreqTag
 control	FWRP	control FWRP FreqTag
 a	DT	a dt NUPOS
@@ -3904,7 +3904,7 @@ in	IN	in IN PennPOS
 positive	JJ	positive JJ PennPOS
 control	FWRP	control FWRP FreqTag
 of	IN	of pp-f NUPOS
-transcription	PRO	transcription PRO TermTag
+transcription	FWRP	transcription FWRP FreqTag
 by	IN	by IN PennPOS
 Hg-MerR	NN	Hg-MerR NN PennPOS
 .	.	. . NUPOS
@@ -3919,7 +3919,7 @@ multiple	JJ	multiple JJ PennPOS
 antibiotic	JJ	antibiotic JJ PennPOS
 resistance	FWRP	resistance FWRP FreqTag
 and	CC	and cc NUPOS
-binding	FWDOM	binding FWDOM FreqTag
+binding	FWRP	binding FWRP FreqTag
 of	IN	of pp-f NUPOS
 stress-inducible	JJ	stress-inducible JJ PennPOS
 promot	NN	promot NN PennPOS
@@ -3929,7 +3929,7 @@ by	IN	by IN PennPOS
 Escherichia	FW	Escherichia FW PennPOS
 coli	FWRP	coli FWRP FreqTag
 Rob	TF	rob TF TermTag
-protein	FWDOM	protein FWDOM FreqTag
+protein	FWRP	protein FWRP FreqTag
 .	.	. . NUPOS
 
 J.	NNP	J. np1 NUPOS

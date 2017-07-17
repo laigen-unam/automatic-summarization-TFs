@@ -20,8 +20,8 @@ Running BioLemmatizer....
 =========================================================
 =========================================================
 -------------------------------- PARAMETERS --------------------------------
-Path to read input files: ../preprocessing_pipeline/pos
-Path to place output files: ../preprocessing_pipeline/lemma
+Path to read input files: ../preprocessing-files/pos
+Path to place output files: ../preprocessing-files/lemma
 Path BIOLemmatizer command: /home/cmendezc/BIO_LEMMATIZER
 Lemmatizing corpus...
    Lemmatizing file...PMID_9324261.pos.txt
@@ -29,4 +29,4 @@ Lemmatizing corpus...
    Lemmatizing file...PMID_9097440.pos.txt
 
 Files BIOLemmatized: 3
-Files BIOLemmatized in: 6.831610s
+Files BIOLemmatized in: 6.970760s
