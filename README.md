@@ -1,6 +1,6 @@
 # Automatic summarization of transcription factor properties
 
-In the BioNLP group of the Computational Genomics Program, we conduct research on automatic text summarization for helping the biocuration process of RegulonDB (http://regulondb.ccg.unam.mx/).
+In the BioNLP group of the Computational Genomics Program (Center for Genomic Sciences, Mexico), we conduct research on automatic text summarization for helping the biocuration process of RegulonDB (http://regulondb.ccg.unam.mx/).
 
 RegulonDB is a database dedicated to the transcriptional regulation of Escherichia coli K-12. This database contains a set of summaries about several properties of TFs. These summaries are also found in EcoCyc (https://ecocyc.org/). These summaries are written manualy by using several scientific articles.
 
