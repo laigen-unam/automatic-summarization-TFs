@@ -16,10 +16,10 @@ This repository provides a pipeline for generating these initial automatic summa
 You must place input files of the article collection within `preprocessing_pipeline/original/` directory. Input files must be raw text files. Extension *.txt is mandatory.
 
 # NLP preprocessing pipeline
-The first step is to preprocess the input files with the `NLP-preprocessing-pipeline/NLP-preprocessing-pipeline.sh` shell script. This step must be performed only once for the same article collection.
+The first step is preprocessing the input files with the `NLP-preprocessing-pipeline/NLP-preprocessing-pipeline.sh` shell script. This step must be performed only once for the same article collection.
 
 ## Preprocessing directory
-Our pipeline utilizes the `preprocessing-files` directory to save temporary files for each preprocessing task. These files could be removed after the preprocessing has finished, except those for the `features` directory. These files are used for the automatic sentence classification to make the automatic summaries.
+Our pipeline utilizes the `preprocessing-files` directory to save temporary files for each preprocessing task. These files could be removed after the NLP preprocessing has finished, except those for the `features` directory. These files are used for the automatic classification task.
 
 ## Term list directory
 Several term lists are employed. These lists are on the term list directory `termLists`.
@@ -41,7 +41,7 @@ You must have installed Stanford POS Tagger and BioLemmatizer within your comput
 - Liu, H., Christiansen, T., Baumgartner, W. A., Jr., and Verspoor, K. (2012) BioLemmatizer: a lemmatization tool for morphological processing of biomedical text. J. Biomed. Semantics, 3, 1-29.
 - https://sourceforge.net/projects/biolemmatizer/
 
-You could indicate which preprocessing steps will be executed by assigning FALSE to the corresponding variable within shell script:
+You could indicate which preprocessing steps will be executed by assigning TRUE/FALSE for the corresponding variable within shell script:
 ```shell
     PRE=TRUE
     echo "   Preprocessing: $PRE"
@@ -60,11 +60,12 @@ You could indicate which preprocessing steps will be executed by assigning FALSE
 ## Execute
 Execute the NLP preprocessing pipeline within the `NLP-preprocessing-pipeline` directory by using the `NLP-preprocessing-pipeline.sh` shell script. Several output files will be generated while shell script is running.
 ```shell
+    cd NLP-preprocessing-pipeline
     ./NLP-preprocessing-pipeline.sh
 ```
 
 # Automatic summarization
-At present, our pipeline generates the automatic summary of only one TF at the same time (i.e. one by one). The TF name must be indicated within the shell scripts. The NLP preprocessing pipeline must be executed first, so the `features` directory must contain several files.
+At present, our pipeline generates the automatic summary of only one TF at the same time (i.e. one by one). The TF name must be indicated within the shell scripts. The NLP preprocessing pipeline must be already executed, so the `features` directory must contain several files.
 
 ## Configure
 
@@ -80,7 +81,7 @@ You must indicate the directory path for the feature sentences (`INPUT_PATH`), t
 ```
 
 ### Making automatic summary
-You must indicate the directory path to place the automatic summary (`OUTPUT_PATH`), the path for the classified sentences (`INPUT_PATH`), and the name of the file with the classified sentences (`INPUT_FILE`).
+You must indicate the directory path to place the output automatic summary (`OUTPUT_PATH`), the directory path for the classified sentences (`INPUT_PATH`), and the name of the file with the classified sentences (`INPUT_FILE`).
 ```shell
     OUTPUT_PATH=../automatic-summary
     INPUT_PATH=./classified
@@ -90,6 +91,7 @@ You must indicate the directory path to place the automatic summary (`OUTPUT_PAT
 ## Execution
 Execute the automatic summarization pipeline within the `automatic-summarization-pipeline` directory by using the `automatic-summarization-pipeline.sh` shell script.
 ```shell
+    cd automatic-summarization-pipeline
     ./automatic-summarization-pipeline.sh
 ```
 
@@ -98,3 +100,4 @@ A raw text file with the automatic summary of the TF is placed within `automatic
 
 ## Contact
 Questions can be sent to Computational Genomics Program (Center for Genomic Sciences, Mexico): cmendezc at ccg dot unam dot mx.
+
