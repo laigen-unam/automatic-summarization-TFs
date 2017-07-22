@@ -2,9 +2,9 @@
 
 In the BioNLP group of the Computational Genomics Program (Center for Genomic Sciences, Mexico), we conduct research on automatic text summarization for helping the biocuration process of RegulonDB (http://regulondb.ccg.unam.mx/).
 
-RegulonDB is a database dedicated to the transcriptional regulation of Escherichia coli K-12. This database contains a set of summaries about several properties of TFs. These summaries are also found in EcoCyc (https://ecocyc.org/). These summaries are written manualy by using several scientific articles.
+RegulonDB is a database dedicated to the transcriptional regulation of Escherichia coli K-12. This database contains a set of summaries about several properties of TFs. These summaries are also found in EcoCyc (https://ecocyc.org/). These summaries are written manually by using several scientific articles.
 
-We have proposed an initial approach for the automaticaly generation of these summaries. In this initial approach, we generate summaries only about two properties of TFs:
+We have proposed an initial approach for the automatic generation of these summaries. In this initial approach, we generate summaries only about two properties of TFs:
 1.	The biological processes in which the regulated genes are involved
 2.	The number, name, and size of the structural domains constituting the TF
 
@@ -98,4 +98,3 @@ A raw text file with the automatic summary of the TF is placed within `automatic
 
 ## Contact
 Questions can be sent to Computational Genomics Program (Center for Genomic Sciences, Mexico): cmendezc at ccg dot unam dot mx.
-
