@@ -79,7 +79,7 @@ You must indicate the directory path for the feature sentences (`INPUT_PATH`), t
     TF_NAME=MarA
 ```
 
-### Making summary
+### Making automatic summary
 You must indicate the directory path to place the automatic summary (`OUTPUT_PATH`), the path for the classified sentences (`INPUT_PATH`), and the name of the file with the classified sentences (`INPUT_FILE`).
 ```shell
     OUTPUT_PATH=../automatic-summary
@@ -96,4 +96,6 @@ Execute the automatic summarization pipeline within the `automatic-summarization
 ## Output
 A raw text file with the automatic summary of the TF is placed within `automatic-summary` directory.
 
+## Contact
 Questions can be sent to Computational Genomics Program (Center for Genomic Sciences, Mexico): cmendezc at ccg dot unam dot mx.
+
