@@ -2,7 +2,7 @@
 
 In the BioNLP group of the Computational Genomics Program (Center for Genomic Sciences, Mexico), we conduct research on automatic text summarization for helping the biocuration process of RegulonDB (http://regulondb.ccg.unam.mx/).
 
-RegulonDB is a database dedicated to the transcriptional regulation of Escherichia coli K-12. This database contains a set of summaries about several properties of TFs. These summaries are also found in EcoCyc (https://ecocyc.org/). These summaries are written manually by using several scientific articles.
+RegulonDB is a database dedicated to the transcriptional regulation of *Escherichia coli K-12*. This database contains a set of summaries about several properties of TFs. These summaries are also found in EcoCyc (https://ecocyc.org/). These summaries are written manually by using several scientific articles.
 
 We have proposed an initial approach for the automatic generation of these summaries. In this initial approach, we generate summaries only about two properties of TFs:
 1.	The biological processes in which the regulated genes are involved
@@ -11,6 +11,9 @@ We have proposed an initial approach for the automatic generation of these summa
 The automatic summaries are made by the concatenation of the automatically classified sentences from scientific articles by an SVM classifier. The evaluation of these initial automatic summaries indicated that they carried part of the relevant information included in the manual summaries.
  
 This repository provides a pipeline for generating these initial automatic summaries.
+
+# Reference
+Méndez-Cruz, C.-F., Gama-Castro, S., Mejía-Almonte, C., Castillo-Villalba, M.-P., Muñiz-Rascado, L.-J. (2017). **First steps in automatic summarization of transcription factor properties for RegulonDB: classification of sentences about structural domains and regulated processes**. *Database*, Volume 2017, 1 January 2017, bax070, https://doi.org/10.1093/database/bax070.
 
 # Input
 You must place input files of the article collection within `preprocessing_pipeline/original/` directory. Input files must be raw text files. Extension *.txt is mandatory.
