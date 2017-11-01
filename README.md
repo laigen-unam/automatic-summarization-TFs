@@ -13,7 +13,7 @@ The automatic summaries are made by the concatenation of the automatically class
 This repository provides a pipeline for generating these initial automatic summaries.
 
 # Reference
-Méndez-Cruz, C.-F., Gama-Castro, S., Mejía-Almonte, C., Castillo-Villalba, M.-P., Muñiz-Rascado, L.-J. (2017). **First steps in automatic summarization of transcription factor properties for RegulonDB: classification of sentences about structural domains and regulated processes**. *Database*, Volume 2017, 1 January 2017, bax070, https://doi.org/10.1093/database/bax070.
+Méndez-Cruz, C.-F., Gama-Castro, S., Mejía-Almonte, C., Castillo-Villalba, M.-P., Muñiz-Rascado, L.-J. and Collado-Vides, Julio. (2017). First steps in automatic summarization of transcription factor properties for RegulonDB: classification of sentences about structural domains and regulated processes. *Database*, Volume 2017, 1 January 2017, bax070, https://doi.org/10.1093/database/bax070.
 
 # Input
 You must place input files of the article collection within `preprocessing_pipeline/original/` directory. Input files must be raw text files. Extension *.txt is mandatory.
